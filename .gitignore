@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.angular/
+target/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+backend/data/
+*.log

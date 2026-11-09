@@ -1,0 +1,88 @@
+<header class="top">
+  <h1>Assistant de voyage intelligent</h1>
+  <p>Des lieux et un itinéraire adaptés à tes goûts, ton budget et la durée de ton séjour.</p>
+</header>
+
+<main class="layout">
+  <form class="panel" [formGroup]="form" (ngSubmit)="recommend()">
+    <h2>Ton voyage</h2>
+
+    <label>
+      Ville
+      <select formControlName="city">
+        <option value="">Toutes les villes</option>
+        @for (c of meta()?.cities ?? []; track c) {
+          <option [value]="c">{{ c }}</option>
+        }
+      </select>
+    </label>
+
+    <div class="row">
+      <label>
+        Jours
+        <input type="number" formControlName="days" min="1" max="14" />
+      </label>
+      <label>
+        Voyageurs
+        <input type="number" formControlName="travelers" min="1" max="20" />
+      </label>
+    </div>
+
+    <label>
+      Budget d'entrées par personne (€), facultatif
+      <input type="number" formControlName="budget_eur" min="0" step="1" placeholder="ex. 15" />
+    </label>
+
+    <label class="check">
+      <input type="checkbox" formControlName="free_only" />
+      Seulement les lieux gratuits
+    </label>
+
+    <fieldset formGroupName="interests">
+      <legend>Tes intérêts (0 à 5)</legend>
+      @for (c of meta()?.categories ?? []; track c.key) {
+        <label class="slider">
+          <span>{{ c.label }}</span>
+          <input type="range" min="0" max="5" step="1" [formControlName]="c.key" />
+          <output>{{ form.controls.interests.get(c.key)?.value }}</output>
+        </label>
+      }
+    </fieldset>
+
+    <div class="actions">
+      <button type="submit" [disabled]="loading()">Recommander des lieux</button>
+      <button type="button" class="secondary" [disabled]="loading()" (click)="buildItinerary()">
+        Construire l'itinéraire
+      </button>
+    </div>
+    <p class="hint">L'itinéraire demande de choisir une ville.</p>
+  </form>
+
+  <section class="results" aria-live="polite">
+    @if (error()) {
+      <p class="alert" role="alert">{{ error() }}</p>
+    }
+    @if (loading()) {
+      <p class="muted">Calcul en cours…</p>
+    }
+
+    @if (!loading() && mode() === 'recommend') {
+      @if (places().length === 0) {
+        <p class="muted">Aucun lieu ne correspond à ces critères. Essaie d'élargir le budget ou la ville.</p>
+      }
+      <div class="grid">
+        @for (p of places(); track p.place_id) {
+          <app-place-card [place]="p" />
+        }
+      </div>
+    }
+
+    @if (!loading() && mode() === 'itinerary' && itinerary(); as plan) {
+      <app-itinerary-view [plan]="plan" />
+    }
+
+    @if (!mode() && !error() && !loading()) {
+      <p class="muted">Renseigne ton profil puis lance une recommandation ou un itinéraire.</p>
+    }
+  </section>
+</main>
