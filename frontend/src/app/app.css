@@ -1,0 +1,2 @@
+/* Les styles de la page sont dans src/styles.css ; les cartes de résultats ont leurs propres styles. */
+:host { display: block; }

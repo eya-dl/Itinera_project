@@ -1,0 +1,143 @@
+<section class="hero" id="top">
+  <nav class="nav" aria-label="Navigation principale">
+    <a class="brand" href="/" (click)="go('top', $event)">Assistant de voyage</a>
+    <div class="nav-links">
+      <a href="#styles" (click)="go('styles', $event)">Ambiances</a>
+      <a href="#planner" (click)="go('planner', $event)">Mon voyage</a>
+      <a href="#results" (click)="go('results', $event)">Résultats</a>
+      <a class="pill" href="#planner" (click)="go('planner', $event)">Commencer</a>
+    </div>
+  </nav>
+
+  <div class="hero-body">
+    <h1>Ton prochain voyage, taillé à ta mesure</h1>
+    <p>Des lieux et un itinéraire adaptés à tes goûts, ton budget et la durée de ton séjour.</p>
+    <a class="cta" href="#planner" (click)="go('planner', $event)">Planifier mon voyage</a>
+  </div>
+
+  <a class="chevron" href="#styles" (click)="go('styles', $event)" aria-label="Descendre vers les ambiances">
+    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6" /></svg>
+  </a>
+</section>
+
+<section class="section white" id="styles">
+  <div class="section-head">
+    <h2>Quelle ambiance cherches-tu ?</h2>
+    <p>Choisis un point de départ : tes intérêts sont pré-réglés, tu pourras les ajuster ensuite.</p>
+  </div>
+  <div class="styles">
+    <article class="style-card style-sea">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 9c2.5 0 2.5-2 5-2s2.5 2 5 2 2.5-2 5-2 2.5 2 5 2M2 14c2.5 0 2.5-2 5-2s2.5 2 5 2 2.5-2 5-2 2.5 2 5 2M2 19c2.5 0 2.5-2 5-2s2.5 2 5 2 2.5-2 5-2 2.5 2 5 2" /></svg>
+      <h3>Mer et plages</h3>
+      <p>Criques, eaux turquoise et farniente.</p>
+      <button type="button" (click)="preset({ sea: 5, nature: 2 })">Choisir cette ambiance</button>
+    </article>
+    <article class="style-card style-nature">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 20l6-11 4 7 3-4 5 8H3z" /><circle cx="17" cy="6" r="2" /></svg>
+      <h3>Nature et paysages</h3>
+      <p>Falaises, forêts et points de vue.</p>
+      <button type="button" (click)="preset({ nature: 5, sea: 2 })">Choisir cette ambiance</button>
+    </article>
+    <article class="style-card style-culture">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 21h18M5 21V10M19 21V10M9 21V10M15 21V10M2 10l10-6 10 6H2z" /></svg>
+      <h3>Culture et temples</h3>
+      <p>Patrimoine, traditions et lieux sacrés.</p>
+      <button type="button" (click)="preset({ culture: 5, religious: 4 })">Choisir cette ambiance</button>
+    </article>
+  </div>
+</section>
+
+<section class="section" id="planner">
+  <div class="section-head">
+    <h2>Décris ton voyage</h2>
+    <p>Ville, durée, budget et centres d'intérêt : on s'occupe du reste.</p>
+  </div>
+
+  <main class="layout">
+    <form class="panel" [formGroup]="form" (ngSubmit)="recommend()">
+      <h2>Ton voyage</h2>
+
+      <label>
+        Ville
+        <select formControlName="city">
+          <option value="">Toutes les villes</option>
+          @for (c of meta()?.cities ?? []; track c) {
+            <option [value]="c">{{ c }}</option>
+          }
+        </select>
+      </label>
+
+      <div class="row">
+        <label>
+          Jours
+          <input type="number" formControlName="days" min="1" max="14" />
+        </label>
+        <label>
+          Voyageurs
+          <input type="number" formControlName="travelers" min="1" max="20" />
+        </label>
+      </div>
+
+      <label>
+        Budget d'entrées par personne (€), facultatif
+        <input type="number" formControlName="budget_eur" min="0" step="1" placeholder="ex. 15" />
+      </label>
+
+      <label class="check">
+        <input type="checkbox" formControlName="free_only" />
+        Seulement les lieux gratuits
+      </label>
+
+      <fieldset formGroupName="interests">
+        <legend>Tes intérêts (0 à 5)</legend>
+        @for (c of meta()?.categories ?? []; track c.key) {
+          <label class="slider">
+            <span>{{ c.label }}</span>
+            <input type="range" min="0" max="5" step="1" [formControlName]="c.key" />
+            <output>{{ form.controls.interests.get(c.key)?.value }}</output>
+          </label>
+        }
+      </fieldset>
+
+      <div class="actions">
+        <button type="submit" [disabled]="loading()">Recommander des lieux</button>
+        <button type="button" class="secondary" [disabled]="loading()" (click)="buildItinerary()">
+          Construire l'itinéraire
+        </button>
+      </div>
+      <p class="hint">L'itinéraire demande de choisir une ville.</p>
+    </form>
+
+    <section class="results" id="results" aria-live="polite">
+      @if (error()) {
+        <p class="alert" role="alert">{{ error() }}</p>
+      }
+      @if (loading()) {
+        <p class="muted">Calcul en cours…</p>
+      }
+
+      @if (!loading() && mode() === 'recommend') {
+        <h2 class="results-title">Lieux recommandés</h2>
+        @if (places().length === 0) {
+          <p class="empty">Aucun lieu ne correspond à ces critères. Essaie d'élargir le budget ou la ville.</p>
+        }
+        <div class="grid">
+          @for (p of places(); track p.place_id) {
+            <app-place-card [place]="p" />
+          }
+        </div>
+      }
+
+      @if (!loading() && mode() === 'itinerary' && itinerary(); as plan) {
+        <h2 class="results-title">Ton itinéraire</h2>
+        <app-itinerary-view [plan]="plan" />
+      }
+
+      @if (!mode() && !error() && !loading()) {
+        <p class="empty">Renseigne ton profil puis lance une recommandation ou un itinéraire.</p>
+      }
+    </section>
+  </main>
+</section>
+
+<footer class="footer">Assistant de voyage intelligent · Projet de recommandation de lieux et d'itinéraires</footer>
