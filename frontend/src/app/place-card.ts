@@ -32,7 +32,21 @@ import { Place } from './models';
     </article>
   `,
   styles: `
-    .card { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 1.1rem; box-shadow: var(--shadow); border-top: 4px solid var(--accent); height: 100%; }
+    :host { --delay: 0ms; }
+    :host(:nth-child(6n + 2)) { --delay: 70ms; }
+    :host(:nth-child(6n + 3)) { --delay: 140ms; }
+    :host(:nth-child(6n + 4)) { --delay: 210ms; }
+    :host(:nth-child(6n + 5)) { --delay: 280ms; }
+    :host(:nth-child(6n + 6)) { --delay: 350ms; }
+    .card {
+      background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 1.1rem; box-shadow: var(--shadow); border-top: 4px solid var(--accent); height: 100%;
+      animation: rise .55s cubic-bezier(.22, .8, .3, 1) var(--delay) backwards;
+      transition: transform .3s cubic-bezier(.22, .8, .3, 1), box-shadow .3s ease;
+    }
+    @keyframes rise { from { opacity: 0; transform: translateY(28px); } }
+    @media (hover: hover) {
+      .card:hover { transform: translateY(-6px) scale(1.03); box-shadow: 0 22px 38px -14px rgba(10, 52, 64, .4); }
+    }
     header { display: flex; justify-content: space-between; gap: .5rem; align-items: start; }
     h3 { margin: 0; font-size: 1.15rem; }
     .chip { background: var(--accent-soft); color: var(--accent); border-radius: 999px; padding: .1rem .6rem; font-size: .78rem; white-space: nowrap; }
