@@ -1,0 +1,2311 @@
+seed,user,n,method,P,R,HR,NDCG
+0,1,0,Aléatoire,0.0,0.0,0.0,0.0
+0,1,0,Popularité,0.0,0.0,0.0,0.0
+0,1,0,Qualité seule,0.0,0.0,0.0,0.0
+0,1,0,Contenu seul,0.1,0.5,1.0,0.38685280723454163
+0,1,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,1,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,1,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,1,1,Aléatoire,0.0,0.0,0.0,0.0
+0,1,1,Popularité,0.0,0.0,0.0,0.0
+0,1,1,Qualité seule,0.0,0.0,0.0,0.0
+0,1,1,Contenu seul,0.0,0.0,0.0,0.0
+0,1,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,1,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,1,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,1,3,Aléatoire,0.0,0.0,0.0,0.0
+0,1,3,Popularité,0.0,0.0,0.0,0.0
+0,1,3,Qualité seule,0.0,0.0,0.0,0.0
+0,1,3,Contenu seul,0.0,0.0,0.0,0.0
+0,1,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,1,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,1,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,1,5,Aléatoire,0.0,0.0,0.0,0.0
+0,1,5,Popularité,0.0,0.0,0.0,0.0
+0,1,5,Qualité seule,0.0,0.0,0.0,0.0
+0,1,5,Contenu seul,0.0,0.0,0.0,0.0
+0,1,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,1,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,1,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,1,10,Aléatoire,0.0,0.0,0.0,0.0
+0,1,10,Popularité,0.0,0.0,0.0,0.0
+0,1,10,Qualité seule,0.0,0.0,0.0,0.0
+0,1,10,Contenu seul,0.0,0.0,0.0,0.0
+0,1,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,1,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,1,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,1,25,Aléatoire,0.0,0.0,0.0,0.0
+0,1,25,Popularité,0.0,0.0,0.0,0.0
+0,1,25,Qualité seule,0.0,0.0,0.0,0.0
+0,1,25,Contenu seul,0.0,0.0,0.0,0.0
+0,1,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,1,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,1,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,2,0,Aléatoire,0.0,0.0,0.0,0.0
+0,2,0,Popularité,0.0,0.0,0.0,0.0
+0,2,0,Qualité seule,0.0,0.0,0.0,0.0
+0,2,0,Contenu seul,0.0,0.0,0.0,0.0
+0,2,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,2,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,2,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,2,1,Aléatoire,0.0,0.0,0.0,0.0
+0,2,1,Popularité,0.0,0.0,0.0,0.0
+0,2,1,Qualité seule,0.0,0.0,0.0,0.0
+0,2,1,Contenu seul,0.0,0.0,0.0,0.0
+0,2,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,2,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,2,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,2,3,Aléatoire,0.0,0.0,0.0,0.0
+0,2,3,Popularité,0.0,0.0,0.0,0.0
+0,2,3,Qualité seule,0.0,0.0,0.0,0.0
+0,2,3,Contenu seul,0.0,0.0,0.0,0.0
+0,2,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,2,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,2,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,2,5,Aléatoire,0.0,0.0,0.0,0.0
+0,2,5,Popularité,0.0,0.0,0.0,0.0
+0,2,5,Qualité seule,0.0,0.0,0.0,0.0
+0,2,5,Contenu seul,0.0,0.0,0.0,0.0
+0,2,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,2,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,2,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,2,10,Aléatoire,0.0,0.0,0.0,0.0
+0,2,10,Popularité,0.0,0.0,0.0,0.0
+0,2,10,Qualité seule,0.0,0.0,0.0,0.0
+0,2,10,Contenu seul,0.0,0.0,0.0,0.0
+0,2,10,Collaboratif seul,0.1,0.5,1.0,0.20438239758848611
+0,2,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,2,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,2,25,Aléatoire,0.0,0.0,0.0,0.0
+0,2,25,Popularité,0.0,0.0,0.0,0.0
+0,2,25,Qualité seule,0.0,0.0,0.0,0.0
+0,2,25,Contenu seul,0.1,0.5,1.0,0.38685280723454163
+0,2,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,2,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,2,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,3,0,Aléatoire,0.0,0.0,0.0,0.0
+0,3,0,Popularité,0.0,0.0,0.0,0.0
+0,3,0,Qualité seule,0.0,0.0,0.0,0.0
+0,3,0,Contenu seul,0.0,0.0,0.0,0.0
+0,3,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,3,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,3,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,3,1,Aléatoire,0.0,0.0,0.0,0.0
+0,3,1,Popularité,0.0,0.0,0.0,0.0
+0,3,1,Qualité seule,0.0,0.0,0.0,0.0
+0,3,1,Contenu seul,0.0,0.0,0.0,0.0
+0,3,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,3,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,3,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,3,3,Aléatoire,0.0,0.0,0.0,0.0
+0,3,3,Popularité,0.0,0.0,0.0,0.0
+0,3,3,Qualité seule,0.0,0.0,0.0,0.0
+0,3,3,Contenu seul,0.0,0.0,0.0,0.0
+0,3,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,3,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,3,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,3,5,Aléatoire,0.1,0.5,1.0,0.20438239758848611
+0,3,5,Popularité,0.0,0.0,0.0,0.0
+0,3,5,Qualité seule,0.0,0.0,0.0,0.0
+0,3,5,Contenu seul,0.0,0.0,0.0,0.0
+0,3,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,3,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,3,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,3,10,Aléatoire,0.0,0.0,0.0,0.0
+0,3,10,Popularité,0.0,0.0,0.0,0.0
+0,3,10,Qualité seule,0.0,0.0,0.0,0.0
+0,3,10,Contenu seul,0.0,0.0,0.0,0.0
+0,3,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,3,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,3,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,3,25,Aléatoire,0.0,0.0,0.0,0.0
+0,3,25,Popularité,0.0,0.0,0.0,0.0
+0,3,25,Qualité seule,0.0,0.0,0.0,0.0
+0,3,25,Contenu seul,0.0,0.0,0.0,0.0
+0,3,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,3,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,3,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,7,0,Aléatoire,0.0,0.0,0.0,0.0
+0,7,0,Popularité,0.0,0.0,0.0,0.0
+0,7,0,Qualité seule,0.0,0.0,0.0,0.0
+0,7,0,Contenu seul,0.0,0.0,0.0,0.0
+0,7,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,7,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,7,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,7,1,Aléatoire,0.0,0.0,0.0,0.0
+0,7,1,Popularité,0.0,0.0,0.0,0.0
+0,7,1,Qualité seule,0.0,0.0,0.0,0.0
+0,7,1,Contenu seul,0.0,0.0,0.0,0.0
+0,7,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,7,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,7,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,7,3,Aléatoire,0.0,0.0,0.0,0.0
+0,7,3,Popularité,0.0,0.0,0.0,0.0
+0,7,3,Qualité seule,0.0,0.0,0.0,0.0
+0,7,3,Contenu seul,0.0,0.0,0.0,0.0
+0,7,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,7,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,7,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,7,5,Aléatoire,0.0,0.0,0.0,0.0
+0,7,5,Popularité,0.0,0.0,0.0,0.0
+0,7,5,Qualité seule,0.0,0.0,0.0,0.0
+0,7,5,Contenu seul,0.0,0.0,0.0,0.0
+0,7,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,7,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,7,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,7,10,Aléatoire,0.0,0.0,0.0,0.0
+0,7,10,Popularité,0.0,0.0,0.0,0.0
+0,7,10,Qualité seule,0.0,0.0,0.0,0.0
+0,7,10,Contenu seul,0.0,0.0,0.0,0.0
+0,7,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,7,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,7,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,7,25,Aléatoire,0.0,0.0,0.0,0.0
+0,7,25,Popularité,0.0,0.0,0.0,0.0
+0,7,25,Qualité seule,0.0,0.0,0.0,0.0
+0,7,25,Contenu seul,0.0,0.0,0.0,0.0
+0,7,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,7,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,7,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,8,0,Aléatoire,0.0,0.0,0.0,0.0
+0,8,0,Popularité,0.0,0.0,0.0,0.0
+0,8,0,Qualité seule,0.0,0.0,0.0,0.0
+0,8,0,Contenu seul,0.0,0.0,0.0,0.0
+0,8,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,8,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,8,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,8,1,Aléatoire,0.0,0.0,0.0,0.0
+0,8,1,Popularité,0.0,0.0,0.0,0.0
+0,8,1,Qualité seule,0.0,0.0,0.0,0.0
+0,8,1,Contenu seul,0.0,0.0,0.0,0.0
+0,8,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,8,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,8,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,8,3,Aléatoire,0.0,0.0,0.0,0.0
+0,8,3,Popularité,0.0,0.0,0.0,0.0
+0,8,3,Qualité seule,0.0,0.0,0.0,0.0
+0,8,3,Contenu seul,0.1,0.5,1.0,0.38685280723454163
+0,8,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,8,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,8,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,8,5,Aléatoire,0.1,0.5,1.0,0.17723928678404774
+0,8,5,Popularité,0.0,0.0,0.0,0.0
+0,8,5,Qualité seule,0.0,0.0,0.0,0.0
+0,8,5,Contenu seul,0.0,0.0,0.0,0.0
+0,8,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,8,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,8,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,8,10,Aléatoire,0.0,0.0,0.0,0.0
+0,8,10,Popularité,0.0,0.0,0.0,0.0
+0,8,10,Qualité seule,0.0,0.0,0.0,0.0
+0,8,10,Contenu seul,0.0,0.0,0.0,0.0
+0,8,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,8,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,8,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,8,25,Aléatoire,0.0,0.0,0.0,0.0
+0,8,25,Popularité,0.0,0.0,0.0,0.0
+0,8,25,Qualité seule,0.0,0.0,0.0,0.0
+0,8,25,Contenu seul,0.0,0.0,0.0,0.0
+0,8,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,8,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,8,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,10,0,Aléatoire,0.0,0.0,0.0,0.0
+0,10,0,Popularité,0.0,0.0,0.0,0.0
+0,10,0,Qualité seule,0.0,0.0,0.0,0.0
+0,10,0,Contenu seul,0.0,0.0,0.0,0.0
+0,10,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,10,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,10,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,10,1,Aléatoire,0.0,0.0,0.0,0.0
+0,10,1,Popularité,0.0,0.0,0.0,0.0
+0,10,1,Qualité seule,0.0,0.0,0.0,0.0
+0,10,1,Contenu seul,0.0,0.0,0.0,0.0
+0,10,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,10,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,10,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,10,3,Aléatoire,0.0,0.0,0.0,0.0
+0,10,3,Popularité,0.0,0.0,0.0,0.0
+0,10,3,Qualité seule,0.0,0.0,0.0,0.0
+0,10,3,Contenu seul,0.0,0.0,0.0,0.0
+0,10,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,10,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,10,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,10,5,Aléatoire,0.0,0.0,0.0,0.0
+0,10,5,Popularité,0.0,0.0,0.0,0.0
+0,10,5,Qualité seule,0.0,0.0,0.0,0.0
+0,10,5,Contenu seul,0.0,0.0,0.0,0.0
+0,10,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,10,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,10,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,10,10,Aléatoire,0.0,0.0,0.0,0.0
+0,10,10,Popularité,0.0,0.0,0.0,0.0
+0,10,10,Qualité seule,0.0,0.0,0.0,0.0
+0,10,10,Contenu seul,0.0,0.0,0.0,0.0
+0,10,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,10,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,10,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,10,25,Aléatoire,0.0,0.0,0.0,0.0
+0,10,25,Popularité,0.0,0.0,0.0,0.0
+0,10,25,Qualité seule,0.0,0.0,0.0,0.0
+0,10,25,Contenu seul,0.0,0.0,0.0,0.0
+0,10,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,10,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,10,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,11,0,Aléatoire,0.1,0.5,1.0,0.19342640361727081
+0,11,0,Popularité,0.0,0.0,0.0,0.0
+0,11,0,Qualité seule,0.0,0.0,0.0,0.0
+0,11,0,Contenu seul,0.0,0.0,0.0,0.0
+0,11,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,11,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,11,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,11,1,Aléatoire,0.0,0.0,0.0,0.0
+0,11,1,Popularité,0.0,0.0,0.0,0.0
+0,11,1,Qualité seule,0.0,0.0,0.0,0.0
+0,11,1,Contenu seul,0.0,0.0,0.0,0.0
+0,11,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,11,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,11,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,11,3,Aléatoire,0.1,0.5,1.0,0.18457569677956817
+0,11,3,Popularité,0.0,0.0,0.0,0.0
+0,11,3,Qualité seule,0.0,0.0,0.0,0.0
+0,11,3,Contenu seul,0.0,0.0,0.0,0.0
+0,11,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,11,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,11,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,11,5,Aléatoire,0.0,0.0,0.0,0.0
+0,11,5,Popularité,0.0,0.0,0.0,0.0
+0,11,5,Qualité seule,0.0,0.0,0.0,0.0
+0,11,5,Contenu seul,0.0,0.0,0.0,0.0
+0,11,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,11,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,11,5,Hybride (complet),0.1,0.5,1.0,0.18457569677956817
+0,11,10,Aléatoire,0.0,0.0,0.0,0.0
+0,11,10,Popularité,0.0,0.0,0.0,0.0
+0,11,10,Qualité seule,0.0,0.0,0.0,0.0
+0,11,10,Contenu seul,0.0,0.0,0.0,0.0
+0,11,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,11,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,11,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,11,25,Aléatoire,0.0,0.0,0.0,0.0
+0,11,25,Popularité,0.0,0.0,0.0,0.0
+0,11,25,Qualité seule,0.0,0.0,0.0,0.0
+0,11,25,Contenu seul,0.0,0.0,0.0,0.0
+0,11,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,11,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,11,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,19,0,Aléatoire,0.0,0.0,0.0,0.0
+0,19,0,Popularité,0.0,0.0,0.0,0.0
+0,19,0,Qualité seule,0.0,0.0,0.0,0.0
+0,19,0,Contenu seul,0.0,0.0,0.0,0.0
+0,19,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,19,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,19,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,19,1,Aléatoire,0.0,0.0,0.0,0.0
+0,19,1,Popularité,0.0,0.0,0.0,0.0
+0,19,1,Qualité seule,0.0,0.0,0.0,0.0
+0,19,1,Contenu seul,0.0,0.0,0.0,0.0
+0,19,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,19,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,19,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,19,3,Aléatoire,0.0,0.0,0.0,0.0
+0,19,3,Popularité,0.0,0.0,0.0,0.0
+0,19,3,Qualité seule,0.0,0.0,0.0,0.0
+0,19,3,Contenu seul,0.0,0.0,0.0,0.0
+0,19,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,19,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,19,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,19,5,Aléatoire,0.1,0.3333333333333333,1.0,0.16716045496620227
+0,19,5,Popularité,0.0,0.0,0.0,0.0
+0,19,5,Qualité seule,0.0,0.0,0.0,0.0
+0,19,5,Contenu seul,0.0,0.0,0.0,0.0
+0,19,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,19,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,19,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,19,10,Aléatoire,0.0,0.0,0.0,0.0
+0,19,10,Popularité,0.0,0.0,0.0,0.0
+0,19,10,Qualité seule,0.0,0.0,0.0,0.0
+0,19,10,Contenu seul,0.0,0.0,0.0,0.0
+0,19,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,19,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,19,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,19,25,Aléatoire,0.0,0.0,0.0,0.0
+0,19,25,Popularité,0.0,0.0,0.0,0.0
+0,19,25,Qualité seule,0.0,0.0,0.0,0.0
+0,19,25,Contenu seul,0.0,0.0,0.0,0.0
+0,19,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,19,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,19,25,Hybride (complet),0.1,0.3333333333333333,1.0,0.23463936301137822
+0,23,0,Aléatoire,0.0,0.0,0.0,0.0
+0,23,0,Popularité,0.0,0.0,0.0,0.0
+0,23,0,Qualité seule,0.0,0.0,0.0,0.0
+0,23,0,Contenu seul,0.0,0.0,0.0,0.0
+0,23,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,23,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,23,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,23,1,Aléatoire,0.0,0.0,0.0,0.0
+0,23,1,Popularité,0.0,0.0,0.0,0.0
+0,23,1,Qualité seule,0.0,0.0,0.0,0.0
+0,23,1,Contenu seul,0.0,0.0,0.0,0.0
+0,23,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,23,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,23,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,23,3,Aléatoire,0.0,0.0,0.0,0.0
+0,23,3,Popularité,0.0,0.0,0.0,0.0
+0,23,3,Qualité seule,0.0,0.0,0.0,0.0
+0,23,3,Contenu seul,0.0,0.0,0.0,0.0
+0,23,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,23,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,23,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,23,5,Aléatoire,0.0,0.0,0.0,0.0
+0,23,5,Popularité,0.0,0.0,0.0,0.0
+0,23,5,Qualité seule,0.0,0.0,0.0,0.0
+0,23,5,Contenu seul,0.0,0.0,0.0,0.0
+0,23,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,23,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,23,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,23,10,Aléatoire,0.0,0.0,0.0,0.0
+0,23,10,Popularité,0.0,0.0,0.0,0.0
+0,23,10,Qualité seule,0.0,0.0,0.0,0.0
+0,23,10,Contenu seul,0.0,0.0,0.0,0.0
+0,23,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,23,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,23,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,23,25,Aléatoire,0.0,0.0,0.0,0.0
+0,23,25,Popularité,0.0,0.0,0.0,0.0
+0,23,25,Qualité seule,0.0,0.0,0.0,0.0
+0,23,25,Contenu seul,0.0,0.0,0.0,0.0
+0,23,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,23,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,23,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,25,0,Aléatoire,0.0,0.0,0.0,0.0
+0,25,0,Popularité,0.0,0.0,0.0,0.0
+0,25,0,Qualité seule,0.0,0.0,0.0,0.0
+0,25,0,Contenu seul,0.0,0.0,0.0,0.0
+0,25,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,25,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,25,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,25,1,Aléatoire,0.0,0.0,0.0,0.0
+0,25,1,Popularité,0.0,0.0,0.0,0.0
+0,25,1,Qualité seule,0.0,0.0,0.0,0.0
+0,25,1,Contenu seul,0.0,0.0,0.0,0.0
+0,25,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,25,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,25,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,25,3,Aléatoire,0.0,0.0,0.0,0.0
+0,25,3,Popularité,0.0,0.0,0.0,0.0
+0,25,3,Qualité seule,0.0,0.0,0.0,0.0
+0,25,3,Contenu seul,0.0,0.0,0.0,0.0
+0,25,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,25,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,25,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,25,5,Aléatoire,0.0,0.0,0.0,0.0
+0,25,5,Popularité,0.0,0.0,0.0,0.0
+0,25,5,Qualité seule,0.0,0.0,0.0,0.0
+0,25,5,Contenu seul,0.0,0.0,0.0,0.0
+0,25,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,25,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,25,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,25,10,Aléatoire,0.0,0.0,0.0,0.0
+0,25,10,Popularité,0.0,0.0,0.0,0.0
+0,25,10,Qualité seule,0.0,0.0,0.0,0.0
+0,25,10,Contenu seul,0.0,0.0,0.0,0.0
+0,25,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,25,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,25,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,25,25,Aléatoire,0.0,0.0,0.0,0.0
+0,25,25,Popularité,0.0,0.0,0.0,0.0
+0,25,25,Qualité seule,0.0,0.0,0.0,0.0
+0,25,25,Contenu seul,0.0,0.0,0.0,0.0
+0,25,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,25,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,25,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,44,0,Aléatoire,0.0,0.0,0.0,0.0
+0,44,0,Popularité,0.0,0.0,0.0,0.0
+0,44,0,Qualité seule,0.0,0.0,0.0,0.0
+0,44,0,Contenu seul,0.0,0.0,0.0,0.0
+0,44,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,44,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,44,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,44,1,Aléatoire,0.0,0.0,0.0,0.0
+0,44,1,Popularité,0.0,0.0,0.0,0.0
+0,44,1,Qualité seule,0.0,0.0,0.0,0.0
+0,44,1,Contenu seul,0.0,0.0,0.0,0.0
+0,44,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,44,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,44,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,44,3,Aléatoire,0.0,0.0,0.0,0.0
+0,44,3,Popularité,0.0,0.0,0.0,0.0
+0,44,3,Qualité seule,0.0,0.0,0.0,0.0
+0,44,3,Contenu seul,0.0,0.0,0.0,0.0
+0,44,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,44,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,44,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,44,5,Aléatoire,0.0,0.0,0.0,0.0
+0,44,5,Popularité,0.0,0.0,0.0,0.0
+0,44,5,Qualité seule,0.0,0.0,0.0,0.0
+0,44,5,Contenu seul,0.0,0.0,0.0,0.0
+0,44,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,44,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,44,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,44,10,Aléatoire,0.0,0.0,0.0,0.0
+0,44,10,Popularité,0.0,0.0,0.0,0.0
+0,44,10,Qualité seule,0.0,0.0,0.0,0.0
+0,44,10,Contenu seul,0.0,0.0,0.0,0.0
+0,44,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,44,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,44,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,44,25,Aléatoire,0.0,0.0,0.0,0.0
+0,44,25,Popularité,0.0,0.0,0.0,0.0
+0,44,25,Qualité seule,0.0,0.0,0.0,0.0
+0,44,25,Contenu seul,0.0,0.0,0.0,0.0
+0,44,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,44,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,44,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,48,0,Aléatoire,0.0,0.0,0.0,0.0
+0,48,0,Popularité,0.0,0.0,0.0,0.0
+0,48,0,Qualité seule,0.0,0.0,0.0,0.0
+0,48,0,Contenu seul,0.0,0.0,0.0,0.0
+0,48,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,48,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,48,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,48,1,Aléatoire,0.0,0.0,0.0,0.0
+0,48,1,Popularité,0.0,0.0,0.0,0.0
+0,48,1,Qualité seule,0.0,0.0,0.0,0.0
+0,48,1,Contenu seul,0.0,0.0,0.0,0.0
+0,48,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,48,1,Hybride sans similarité,0.1,0.5,1.0,0.2640681225725909
+0,48,1,Hybride (complet),0.1,0.5,1.0,0.2640681225725909
+0,48,3,Aléatoire,0.0,0.0,0.0,0.0
+0,48,3,Popularité,0.0,0.0,0.0,0.0
+0,48,3,Qualité seule,0.0,0.0,0.0,0.0
+0,48,3,Contenu seul,0.0,0.0,0.0,0.0
+0,48,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,48,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,48,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,48,5,Aléatoire,0.0,0.0,0.0,0.0
+0,48,5,Popularité,0.0,0.0,0.0,0.0
+0,48,5,Qualité seule,0.0,0.0,0.0,0.0
+0,48,5,Contenu seul,0.0,0.0,0.0,0.0
+0,48,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,48,5,Hybride sans similarité,0.1,0.5,1.0,0.17723928678404774
+0,48,5,Hybride (complet),0.1,0.5,1.0,0.17723928678404774
+0,48,10,Aléatoire,0.0,0.0,0.0,0.0
+0,48,10,Popularité,0.0,0.0,0.0,0.0
+0,48,10,Qualité seule,0.0,0.0,0.0,0.0
+0,48,10,Contenu seul,0.0,0.0,0.0,0.0
+0,48,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,48,10,Hybride sans similarité,0.1,0.5,1.0,0.23719771276929622
+0,48,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,48,25,Aléatoire,0.0,0.0,0.0,0.0
+0,48,25,Popularité,0.0,0.0,0.0,0.0
+0,48,25,Qualité seule,0.0,0.0,0.0,0.0
+0,48,25,Contenu seul,0.0,0.0,0.0,0.0
+0,48,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,48,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,48,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,73,0,Aléatoire,0.0,0.0,0.0,0.0
+0,73,0,Popularité,0.1,1.0,1.0,1.0
+0,73,0,Qualité seule,0.1,1.0,1.0,0.2890648263178879
+0,73,0,Contenu seul,0.0,0.0,0.0,0.0
+0,73,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,73,0,Hybride sans similarité,0.1,1.0,1.0,0.3333333333333333
+0,73,0,Hybride (complet),0.1,1.0,1.0,0.3333333333333333
+0,73,1,Aléatoire,0.0,0.0,0.0,0.0
+0,73,1,Popularité,0.1,1.0,1.0,1.0
+0,73,1,Qualité seule,0.1,1.0,1.0,0.2890648263178879
+0,73,1,Contenu seul,0.0,0.0,0.0,0.0
+0,73,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,73,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,73,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,73,3,Aléatoire,0.0,0.0,0.0,0.0
+0,73,3,Popularité,0.1,1.0,1.0,1.0
+0,73,3,Qualité seule,0.1,1.0,1.0,0.2890648263178879
+0,73,3,Contenu seul,0.0,0.0,0.0,0.0
+0,73,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,73,3,Hybride sans similarité,0.1,1.0,1.0,0.43067655807339306
+0,73,3,Hybride (complet),0.1,1.0,1.0,0.43067655807339306
+0,73,5,Aléatoire,0.0,0.0,0.0,0.0
+0,73,5,Popularité,0.1,1.0,1.0,1.0
+0,73,5,Qualité seule,0.1,1.0,1.0,0.2890648263178879
+0,73,5,Contenu seul,0.0,0.0,0.0,0.0
+0,73,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,73,5,Hybride sans similarité,0.1,1.0,1.0,0.38685280723454163
+0,73,5,Hybride (complet),0.1,1.0,1.0,0.38685280723454163
+0,73,10,Aléatoire,0.0,0.0,0.0,0.0
+0,73,10,Popularité,0.1,1.0,1.0,1.0
+0,73,10,Qualité seule,0.1,1.0,1.0,0.2890648263178879
+0,73,10,Contenu seul,0.0,0.0,0.0,0.0
+0,73,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,73,10,Hybride sans similarité,0.1,1.0,1.0,0.38685280723454163
+0,73,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,73,25,Aléatoire,0.0,0.0,0.0,0.0
+0,73,25,Popularité,0.1,1.0,1.0,1.0
+0,73,25,Qualité seule,0.1,1.0,1.0,0.2890648263178879
+0,73,25,Contenu seul,0.0,0.0,0.0,0.0
+0,73,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,73,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,73,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,75,0,Aléatoire,0.0,0.0,0.0,0.0
+0,75,0,Popularité,0.0,0.0,0.0,0.0
+0,75,0,Qualité seule,0.0,0.0,0.0,0.0
+0,75,0,Contenu seul,0.0,0.0,0.0,0.0
+0,75,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,75,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,75,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,75,1,Aléatoire,0.0,0.0,0.0,0.0
+0,75,1,Popularité,0.0,0.0,0.0,0.0
+0,75,1,Qualité seule,0.0,0.0,0.0,0.0
+0,75,1,Contenu seul,0.0,0.0,0.0,0.0
+0,75,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,75,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,75,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,75,3,Aléatoire,0.0,0.0,0.0,0.0
+0,75,3,Popularité,0.0,0.0,0.0,0.0
+0,75,3,Qualité seule,0.0,0.0,0.0,0.0
+0,75,3,Contenu seul,0.0,0.0,0.0,0.0
+0,75,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,75,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,75,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,75,5,Aléatoire,0.0,0.0,0.0,0.0
+0,75,5,Popularité,0.0,0.0,0.0,0.0
+0,75,5,Qualité seule,0.0,0.0,0.0,0.0
+0,75,5,Contenu seul,0.0,0.0,0.0,0.0
+0,75,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,75,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,75,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,75,10,Aléatoire,0.0,0.0,0.0,0.0
+0,75,10,Popularité,0.0,0.0,0.0,0.0
+0,75,10,Qualité seule,0.0,0.0,0.0,0.0
+0,75,10,Contenu seul,0.0,0.0,0.0,0.0
+0,75,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,75,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,75,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,75,25,Aléatoire,0.0,0.0,0.0,0.0
+0,75,25,Popularité,0.0,0.0,0.0,0.0
+0,75,25,Qualité seule,0.0,0.0,0.0,0.0
+0,75,25,Contenu seul,0.0,0.0,0.0,0.0
+0,75,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,75,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,75,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,76,0,Aléatoire,0.0,0.0,0.0,0.0
+0,76,0,Popularité,0.0,0.0,0.0,0.0
+0,76,0,Qualité seule,0.0,0.0,0.0,0.0
+0,76,0,Contenu seul,0.0,0.0,0.0,0.0
+0,76,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,76,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,76,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,76,1,Aléatoire,0.0,0.0,0.0,0.0
+0,76,1,Popularité,0.0,0.0,0.0,0.0
+0,76,1,Qualité seule,0.0,0.0,0.0,0.0
+0,76,1,Contenu seul,0.0,0.0,0.0,0.0
+0,76,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,76,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,76,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,76,3,Aléatoire,0.0,0.0,0.0,0.0
+0,76,3,Popularité,0.0,0.0,0.0,0.0
+0,76,3,Qualité seule,0.0,0.0,0.0,0.0
+0,76,3,Contenu seul,0.1,0.3333333333333333,1.0,0.14126697285982898
+0,76,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,76,3,Hybride sans similarité,0.1,0.3333333333333333,1.0,0.14126697285982898
+0,76,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,76,5,Aléatoire,0.0,0.0,0.0,0.0
+0,76,5,Popularité,0.0,0.0,0.0,0.0
+0,76,5,Qualité seule,0.0,0.0,0.0,0.0
+0,76,5,Contenu seul,0.0,0.0,0.0,0.0
+0,76,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,76,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,76,5,Hybride (complet),0.1,0.3333333333333333,1.0,0.13565197343244778
+0,76,10,Aléatoire,0.0,0.0,0.0,0.0
+0,76,10,Popularité,0.0,0.0,0.0,0.0
+0,76,10,Qualité seule,0.0,0.0,0.0,0.0
+0,76,10,Contenu seul,0.0,0.0,0.0,0.0
+0,76,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,76,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,76,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,76,25,Aléatoire,0.1,0.3333333333333333,1.0,0.1480409554829326
+0,76,25,Popularité,0.0,0.0,0.0,0.0
+0,76,25,Qualité seule,0.0,0.0,0.0,0.0
+0,76,25,Contenu seul,0.0,0.0,0.0,0.0
+0,76,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,76,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,76,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,84,0,Aléatoire,0.0,0.0,0.0,0.0
+0,84,0,Popularité,0.0,0.0,0.0,0.0
+0,84,0,Qualité seule,0.1,0.5,1.0,0.2640681225725909
+0,84,0,Contenu seul,0.0,0.0,0.0,0.0
+0,84,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,84,0,Hybride sans similarité,0.1,0.5,1.0,0.2640681225725909
+0,84,0,Hybride (complet),0.1,0.5,1.0,0.2640681225725909
+0,84,1,Aléatoire,0.0,0.0,0.0,0.0
+0,84,1,Popularité,0.0,0.0,0.0,0.0
+0,84,1,Qualité seule,0.1,0.5,1.0,0.2640681225725909
+0,84,1,Contenu seul,0.0,0.0,0.0,0.0
+0,84,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,84,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,84,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,84,3,Aléatoire,0.0,0.0,0.0,0.0
+0,84,3,Popularité,0.1,0.5,1.0,0.17723928678404774
+0,84,3,Qualité seule,0.1,0.5,1.0,0.2640681225725909
+0,84,3,Contenu seul,0.0,0.0,0.0,0.0
+0,84,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,84,3,Hybride sans similarité,0.1,0.5,1.0,0.2640681225725909
+0,84,3,Hybride (complet),0.1,0.5,1.0,0.3065735963827292
+0,84,5,Aléatoire,0.0,0.0,0.0,0.0
+0,84,5,Popularité,0.0,0.0,0.0,0.0
+0,84,5,Qualité seule,0.1,0.5,1.0,0.2640681225725909
+0,84,5,Contenu seul,0.0,0.0,0.0,0.0
+0,84,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,84,5,Hybride sans similarité,0.1,0.5,1.0,0.2640681225725909
+0,84,5,Hybride (complet),0.1,0.5,1.0,0.21840743681816419
+0,84,10,Aléatoire,0.0,0.0,0.0,0.0
+0,84,10,Popularité,0.0,0.0,0.0,0.0
+0,84,10,Qualité seule,0.1,0.5,1.0,0.2640681225725909
+0,84,10,Contenu seul,0.0,0.0,0.0,0.0
+0,84,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,84,10,Hybride sans similarité,0.1,0.5,1.0,0.2640681225725909
+0,84,10,Hybride (complet),0.1,0.5,1.0,0.3065735963827292
+0,84,25,Aléatoire,0.0,0.0,0.0,0.0
+0,84,25,Popularité,0.0,0.0,0.0,0.0
+0,84,25,Qualité seule,0.1,0.5,1.0,0.2640681225725909
+0,84,25,Contenu seul,0.0,0.0,0.0,0.0
+0,84,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,84,25,Hybride sans similarité,0.1,0.5,1.0,0.23719771276929622
+0,84,25,Hybride (complet),0.1,0.5,1.0,0.38685280723454163
+0,105,0,Aléatoire,0.0,0.0,0.0,0.0
+0,105,0,Popularité,0.0,0.0,0.0,0.0
+0,105,0,Qualité seule,0.0,0.0,0.0,0.0
+0,105,0,Contenu seul,0.1,0.16666666666666666,1.0,0.0874717141014082
+0,105,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,105,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,105,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,105,1,Aléatoire,0.1,0.16666666666666666,1.0,0.30260241349881345
+0,105,1,Popularité,0.0,0.0,0.0,0.0
+0,105,1,Qualité seule,0.0,0.0,0.0,0.0
+0,105,1,Contenu seul,0.0,0.0,0.0,0.0
+0,105,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,105,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,105,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,105,3,Aléatoire,0.0,0.0,0.0,0.0
+0,105,3,Popularité,0.0,0.0,0.0,0.0
+0,105,3,Qualité seule,0.0,0.0,0.0,0.0
+0,105,3,Contenu seul,0.0,0.0,0.0,0.0
+0,105,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,105,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,105,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,105,5,Aléatoire,0.1,0.16666666666666666,1.0,0.10778915452451093
+0,105,5,Popularité,0.0,0.0,0.0,0.0
+0,105,5,Qualité seule,0.0,0.0,0.0,0.0
+0,105,5,Contenu seul,0.0,0.0,0.0,0.0
+0,105,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,105,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,105,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,105,10,Aléatoire,0.0,0.0,0.0,0.0
+0,105,10,Popularité,0.0,0.0,0.0,0.0
+0,105,10,Qualité seule,0.0,0.0,0.0,0.0
+0,105,10,Contenu seul,0.0,0.0,0.0,0.0
+0,105,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,105,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,105,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,105,25,Aléatoire,0.0,0.0,0.0,0.0
+0,105,25,Popularité,0.0,0.0,0.0,0.0
+0,105,25,Qualité seule,0.0,0.0,0.0,0.0
+0,105,25,Contenu seul,0.0,0.0,0.0,0.0
+0,105,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,105,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,105,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,113,0,Aléatoire,0.0,0.0,0.0,0.0
+0,113,0,Popularité,0.0,0.0,0.0,0.0
+0,113,0,Qualité seule,0.0,0.0,0.0,0.0
+0,113,0,Contenu seul,0.0,0.0,0.0,0.0
+0,113,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,113,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,113,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,113,1,Aléatoire,0.0,0.0,0.0,0.0
+0,113,1,Popularité,0.0,0.0,0.0,0.0
+0,113,1,Qualité seule,0.0,0.0,0.0,0.0
+0,113,1,Contenu seul,0.0,0.0,0.0,0.0
+0,113,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,113,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,113,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,113,3,Aléatoire,0.0,0.0,0.0,0.0
+0,113,3,Popularité,0.0,0.0,0.0,0.0
+0,113,3,Qualité seule,0.0,0.0,0.0,0.0
+0,113,3,Contenu seul,0.0,0.0,0.0,0.0
+0,113,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,113,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,113,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,113,5,Aléatoire,0.0,0.0,0.0,0.0
+0,113,5,Popularité,0.0,0.0,0.0,0.0
+0,113,5,Qualité seule,0.0,0.0,0.0,0.0
+0,113,5,Contenu seul,0.0,0.0,0.0,0.0
+0,113,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,113,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,113,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,113,10,Aléatoire,0.0,0.0,0.0,0.0
+0,113,10,Popularité,0.0,0.0,0.0,0.0
+0,113,10,Qualité seule,0.0,0.0,0.0,0.0
+0,113,10,Contenu seul,0.0,0.0,0.0,0.0
+0,113,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,113,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,113,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,113,25,Aléatoire,0.0,0.0,0.0,0.0
+0,113,25,Popularité,0.0,0.0,0.0,0.0
+0,113,25,Qualité seule,0.0,0.0,0.0,0.0
+0,113,25,Contenu seul,0.0,0.0,0.0,0.0
+0,113,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,113,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,113,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,114,0,Aléatoire,0.0,0.0,0.0,0.0
+0,114,0,Popularité,0.0,0.0,0.0,0.0
+0,114,0,Qualité seule,0.2,0.5,1.0,0.29007579773858083
+0,114,0,Contenu seul,0.0,0.0,0.0,0.0
+0,114,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,114,0,Hybride sans similarité,0.2,0.5,1.0,0.3191471544989227
+0,114,0,Hybride (complet),0.2,0.5,1.0,0.3191471544989227
+0,114,1,Aléatoire,0.0,0.0,0.0,0.0
+0,114,1,Popularité,0.0,0.0,0.0,0.0
+0,114,1,Qualité seule,0.2,0.5,1.0,0.29007579773858083
+0,114,1,Contenu seul,0.0,0.0,0.0,0.0
+0,114,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,114,1,Hybride sans similarité,0.2,0.5,1.0,0.2691828628414762
+0,114,1,Hybride (complet),0.2,0.5,1.0,0.2691828628414762
+0,114,3,Aléatoire,0.1,0.25,1.0,0.19519002499605084
+0,114,3,Popularité,0.0,0.0,0.0,0.0
+0,114,3,Qualité seule,0.2,0.5,1.0,0.29007579773858083
+0,114,3,Contenu seul,0.0,0.0,0.0,0.0
+0,114,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,114,3,Hybride sans similarité,0.1,0.25,1.0,0.3903800499921017
+0,114,3,Hybride (complet),0.1,0.25,1.0,0.3903800499921017
+0,114,5,Aléatoire,0.0,0.0,0.0,0.0
+0,114,5,Popularité,0.0,0.0,0.0,0.0
+0,114,5,Qualité seule,0.2,0.5,1.0,0.29007579773858083
+0,114,5,Contenu seul,0.0,0.0,0.0,0.0
+0,114,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,114,5,Hybride sans similarité,0.1,0.25,1.0,0.3903800499921017
+0,114,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,114,10,Aléatoire,0.0,0.0,0.0,0.0
+0,114,10,Popularité,0.0,0.0,0.0,0.0
+0,114,10,Qualité seule,0.2,0.5,1.0,0.29007579773858083
+0,114,10,Contenu seul,0.0,0.0,0.0,0.0
+0,114,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,114,10,Hybride sans similarité,0.1,0.25,1.0,0.3903800499921017
+0,114,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,114,25,Aléatoire,0.0,0.0,0.0,0.0
+0,114,25,Popularité,0.0,0.0,0.0,0.0
+0,114,25,Qualité seule,0.2,0.5,1.0,0.29007579773858083
+0,114,25,Contenu seul,0.0,0.0,0.0,0.0
+0,114,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,114,25,Hybride sans similarité,0.1,0.25,1.0,0.13905617951077562
+0,114,25,Hybride (complet),0.1,0.25,1.0,0.19519002499605084
+0,119,0,Aléatoire,0.0,0.0,0.0,0.0
+0,119,0,Popularité,0.0,0.0,0.0,0.0
+0,119,0,Qualité seule,0.0,0.0,0.0,0.0
+0,119,0,Contenu seul,0.0,0.0,0.0,0.0
+0,119,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,119,0,Hybride sans similarité,0.1,1.0,1.0,0.2890648263178879
+0,119,0,Hybride (complet),0.1,1.0,1.0,0.2890648263178879
+0,119,1,Aléatoire,0.0,0.0,0.0,0.0
+0,119,1,Popularité,0.0,0.0,0.0,0.0
+0,119,1,Qualité seule,0.0,0.0,0.0,0.0
+0,119,1,Contenu seul,0.0,0.0,0.0,0.0
+0,119,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,119,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,119,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,119,3,Aléatoire,0.0,0.0,0.0,0.0
+0,119,3,Popularité,0.0,0.0,0.0,0.0
+0,119,3,Qualité seule,0.0,0.0,0.0,0.0
+0,119,3,Contenu seul,0.0,0.0,0.0,0.0
+0,119,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,119,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,119,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,119,5,Aléatoire,0.0,0.0,0.0,0.0
+0,119,5,Popularité,0.0,0.0,0.0,0.0
+0,119,5,Qualité seule,0.0,0.0,0.0,0.0
+0,119,5,Contenu seul,0.0,0.0,0.0,0.0
+0,119,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,119,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,119,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,119,10,Aléatoire,0.0,0.0,0.0,0.0
+0,119,10,Popularité,0.0,0.0,0.0,0.0
+0,119,10,Qualité seule,0.0,0.0,0.0,0.0
+0,119,10,Contenu seul,0.0,0.0,0.0,0.0
+0,119,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,119,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,119,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,119,25,Aléatoire,0.0,0.0,0.0,0.0
+0,119,25,Popularité,0.0,0.0,0.0,0.0
+0,119,25,Qualité seule,0.0,0.0,0.0,0.0
+0,119,25,Contenu seul,0.0,0.0,0.0,0.0
+0,119,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,119,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,119,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,125,0,Aléatoire,0.0,0.0,0.0,0.0
+0,125,0,Popularité,0.0,0.0,0.0,0.0
+0,125,0,Qualité seule,0.0,0.0,0.0,0.0
+0,125,0,Contenu seul,0.0,0.0,0.0,0.0
+0,125,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,125,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,125,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,125,1,Aléatoire,0.0,0.0,0.0,0.0
+0,125,1,Popularité,0.0,0.0,0.0,0.0
+0,125,1,Qualité seule,0.0,0.0,0.0,0.0
+0,125,1,Contenu seul,0.0,0.0,0.0,0.0
+0,125,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,125,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,125,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,125,3,Aléatoire,0.0,0.0,0.0,0.0
+0,125,3,Popularité,0.0,0.0,0.0,0.0
+0,125,3,Qualité seule,0.0,0.0,0.0,0.0
+0,125,3,Contenu seul,0.0,0.0,0.0,0.0
+0,125,3,Collaboratif seul,0.1,0.16666666666666666,1.0,0.13032376591037062
+0,125,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,125,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,125,5,Aléatoire,0.0,0.0,0.0,0.0
+0,125,5,Popularité,0.0,0.0,0.0,0.0
+0,125,5,Qualité seule,0.0,0.0,0.0,0.0
+0,125,5,Contenu seul,0.0,0.0,0.0,0.0
+0,125,5,Collaboratif seul,0.1,0.16666666666666666,1.0,0.13032376591037062
+0,125,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,125,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,125,10,Aléatoire,0.0,0.0,0.0,0.0
+0,125,10,Popularité,0.0,0.0,0.0,0.0
+0,125,10,Qualité seule,0.0,0.0,0.0,0.0
+0,125,10,Contenu seul,0.0,0.0,0.0,0.0
+0,125,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,125,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,125,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,125,25,Aléatoire,0.0,0.0,0.0,0.0
+0,125,25,Popularité,0.0,0.0,0.0,0.0
+0,125,25,Qualité seule,0.0,0.0,0.0,0.0
+0,125,25,Contenu seul,0.0,0.0,0.0,0.0
+0,125,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,125,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,125,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,128,0,Aléatoire,0.0,0.0,0.0,0.0
+0,128,0,Popularité,0.1,0.3333333333333333,1.0,0.20210734650054757
+0,128,0,Qualité seule,0.0,0.0,0.0,0.0
+0,128,0,Contenu seul,0.0,0.0,0.0,0.0
+0,128,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,128,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,128,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,128,1,Aléatoire,0.0,0.0,0.0,0.0
+0,128,1,Popularité,0.1,0.3333333333333333,1.0,0.23463936301137822
+0,128,1,Qualité seule,0.0,0.0,0.0,0.0
+0,128,1,Contenu seul,0.0,0.0,0.0,0.0
+0,128,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,128,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,128,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,128,3,Aléatoire,0.0,0.0,0.0,0.0
+0,128,3,Popularité,0.1,0.3333333333333333,1.0,0.23463936301137822
+0,128,3,Qualité seule,0.0,0.0,0.0,0.0
+0,128,3,Contenu seul,0.0,0.0,0.0,0.0
+0,128,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,128,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,128,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,128,5,Aléatoire,0.0,0.0,0.0,0.0
+0,128,5,Popularité,0.1,0.3333333333333333,1.0,0.23463936301137822
+0,128,5,Qualité seule,0.0,0.0,0.0,0.0
+0,128,5,Contenu seul,0.0,0.0,0.0,0.0
+0,128,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,128,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,128,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,128,10,Aléatoire,0.0,0.0,0.0,0.0
+0,128,10,Popularité,0.1,0.3333333333333333,1.0,0.20210734650054757
+0,128,10,Qualité seule,0.0,0.0,0.0,0.0
+0,128,10,Contenu seul,0.0,0.0,0.0,0.0
+0,128,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,128,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,128,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,128,25,Aléatoire,0.0,0.0,0.0,0.0
+0,128,25,Popularité,0.1,0.3333333333333333,1.0,0.23463936301137822
+0,128,25,Qualité seule,0.0,0.0,0.0,0.0
+0,128,25,Contenu seul,0.0,0.0,0.0,0.0
+0,128,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,128,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,128,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,135,0,Aléatoire,0.0,0.0,0.0,0.0
+0,135,0,Popularité,0.0,0.0,0.0,0.0
+0,135,0,Qualité seule,0.0,0.0,0.0,0.0
+0,135,0,Contenu seul,0.0,0.0,0.0,0.0
+0,135,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,135,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,135,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,135,1,Aléatoire,0.0,0.0,0.0,0.0
+0,135,1,Popularité,0.0,0.0,0.0,0.0
+0,135,1,Qualité seule,0.0,0.0,0.0,0.0
+0,135,1,Contenu seul,0.0,0.0,0.0,0.0
+0,135,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,135,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,135,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,135,3,Aléatoire,0.0,0.0,0.0,0.0
+0,135,3,Popularité,0.0,0.0,0.0,0.0
+0,135,3,Qualité seule,0.0,0.0,0.0,0.0
+0,135,3,Contenu seul,0.0,0.0,0.0,0.0
+0,135,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,135,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,135,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,135,5,Aléatoire,0.0,0.0,0.0,0.0
+0,135,5,Popularité,0.0,0.0,0.0,0.0
+0,135,5,Qualité seule,0.0,0.0,0.0,0.0
+0,135,5,Contenu seul,0.0,0.0,0.0,0.0
+0,135,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,135,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,135,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,135,10,Aléatoire,0.0,0.0,0.0,0.0
+0,135,10,Popularité,0.0,0.0,0.0,0.0
+0,135,10,Qualité seule,0.0,0.0,0.0,0.0
+0,135,10,Contenu seul,0.0,0.0,0.0,0.0
+0,135,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,135,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,135,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,135,25,Aléatoire,0.0,0.0,0.0,0.0
+0,135,25,Popularité,0.0,0.0,0.0,0.0
+0,135,25,Qualité seule,0.0,0.0,0.0,0.0
+0,135,25,Contenu seul,0.0,0.0,0.0,0.0
+0,135,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,135,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,135,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,136,0,Aléatoire,0.0,0.0,0.0,0.0
+0,136,0,Popularité,0.0,0.0,0.0,0.0
+0,136,0,Qualité seule,0.1,0.5,1.0,0.20438239758848611
+0,136,0,Contenu seul,0.0,0.0,0.0,0.0
+0,136,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,136,0,Hybride sans similarité,0.1,0.5,1.0,0.20438239758848611
+0,136,0,Hybride (complet),0.1,0.5,1.0,0.20438239758848611
+0,136,1,Aléatoire,0.0,0.0,0.0,0.0
+0,136,1,Popularité,0.0,0.0,0.0,0.0
+0,136,1,Qualité seule,0.1,0.5,1.0,0.20438239758848611
+0,136,1,Contenu seul,0.0,0.0,0.0,0.0
+0,136,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,136,1,Hybride sans similarité,0.1,0.5,1.0,0.17723928678404774
+0,136,1,Hybride (complet),0.1,0.5,1.0,0.17723928678404774
+0,136,3,Aléatoire,0.0,0.0,0.0,0.0
+0,136,3,Popularité,0.0,0.0,0.0,0.0
+0,136,3,Qualité seule,0.1,0.5,1.0,0.20438239758848611
+0,136,3,Contenu seul,0.0,0.0,0.0,0.0
+0,136,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,136,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,136,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,136,5,Aléatoire,0.0,0.0,0.0,0.0
+0,136,5,Popularité,0.0,0.0,0.0,0.0
+0,136,5,Qualité seule,0.1,0.5,1.0,0.20438239758848611
+0,136,5,Contenu seul,0.0,0.0,0.0,0.0
+0,136,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,136,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,136,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,136,10,Aléatoire,0.0,0.0,0.0,0.0
+0,136,10,Popularité,0.0,0.0,0.0,0.0
+0,136,10,Qualité seule,0.1,0.5,1.0,0.20438239758848611
+0,136,10,Contenu seul,0.0,0.0,0.0,0.0
+0,136,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,136,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,136,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,136,25,Aléatoire,0.0,0.0,0.0,0.0
+0,136,25,Popularité,0.0,0.0,0.0,0.0
+0,136,25,Qualité seule,0.1,0.5,1.0,0.20438239758848611
+0,136,25,Contenu seul,0.1,0.5,1.0,0.19342640361727081
+0,136,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,136,25,Hybride sans similarité,0.1,0.5,1.0,0.38685280723454163
+0,136,25,Hybride (complet),0.2,1.0,1.0,0.39564672360221187
+0,141,0,Aléatoire,0.0,0.0,0.0,0.0
+0,141,0,Popularité,0.0,0.0,0.0,0.0
+0,141,0,Qualité seule,0.0,0.0,0.0,0.0
+0,141,0,Contenu seul,0.0,0.0,0.0,0.0
+0,141,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,141,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,141,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,141,1,Aléatoire,0.0,0.0,0.0,0.0
+0,141,1,Popularité,0.0,0.0,0.0,0.0
+0,141,1,Qualité seule,0.0,0.0,0.0,0.0
+0,141,1,Contenu seul,0.0,0.0,0.0,0.0
+0,141,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,141,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,141,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,141,3,Aléatoire,0.0,0.0,0.0,0.0
+0,141,3,Popularité,0.0,0.0,0.0,0.0
+0,141,3,Qualité seule,0.0,0.0,0.0,0.0
+0,141,3,Contenu seul,0.0,0.0,0.0,0.0
+0,141,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,141,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,141,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,141,5,Aléatoire,0.0,0.0,0.0,0.0
+0,141,5,Popularité,0.0,0.0,0.0,0.0
+0,141,5,Qualité seule,0.0,0.0,0.0,0.0
+0,141,5,Contenu seul,0.0,0.0,0.0,0.0
+0,141,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,141,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,141,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,141,10,Aléatoire,0.0,0.0,0.0,0.0
+0,141,10,Popularité,0.0,0.0,0.0,0.0
+0,141,10,Qualité seule,0.0,0.0,0.0,0.0
+0,141,10,Contenu seul,0.0,0.0,0.0,0.0
+0,141,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,141,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,141,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,141,25,Aléatoire,0.0,0.0,0.0,0.0
+0,141,25,Popularité,0.0,0.0,0.0,0.0
+0,141,25,Qualité seule,0.0,0.0,0.0,0.0
+0,141,25,Contenu seul,0.0,0.0,0.0,0.0
+0,141,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,141,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,141,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,146,0,Aléatoire,0.0,0.0,0.0,0.0
+0,146,0,Popularité,0.0,0.0,0.0,0.0
+0,146,0,Qualité seule,0.0,0.0,0.0,0.0
+0,146,0,Contenu seul,0.0,0.0,0.0,0.0
+0,146,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,146,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,146,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,146,1,Aléatoire,0.0,0.0,0.0,0.0
+0,146,1,Popularité,0.0,0.0,0.0,0.0
+0,146,1,Qualité seule,0.0,0.0,0.0,0.0
+0,146,1,Contenu seul,0.0,0.0,0.0,0.0
+0,146,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,146,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,146,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,146,3,Aléatoire,0.0,0.0,0.0,0.0
+0,146,3,Popularité,0.0,0.0,0.0,0.0
+0,146,3,Qualité seule,0.0,0.0,0.0,0.0
+0,146,3,Contenu seul,0.0,0.0,0.0,0.0
+0,146,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,146,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,146,3,Hybride (complet),0.1,0.5,1.0,0.19342640361727081
+0,146,5,Aléatoire,0.0,0.0,0.0,0.0
+0,146,5,Popularité,0.0,0.0,0.0,0.0
+0,146,5,Qualité seule,0.0,0.0,0.0,0.0
+0,146,5,Contenu seul,0.0,0.0,0.0,0.0
+0,146,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,146,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,146,5,Hybride (complet),0.1,0.5,1.0,0.20438239758848611
+0,146,10,Aléatoire,0.1,0.5,1.0,0.17723928678404774
+0,146,10,Popularité,0.0,0.0,0.0,0.0
+0,146,10,Qualité seule,0.0,0.0,0.0,0.0
+0,146,10,Contenu seul,0.0,0.0,0.0,0.0
+0,146,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,146,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,146,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,146,25,Aléatoire,0.0,0.0,0.0,0.0
+0,146,25,Popularité,0.0,0.0,0.0,0.0
+0,146,25,Qualité seule,0.0,0.0,0.0,0.0
+0,146,25,Contenu seul,0.0,0.0,0.0,0.0
+0,146,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,146,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,146,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,149,0,Aléatoire,0.0,0.0,0.0,0.0
+0,149,0,Popularité,0.0,0.0,0.0,0.0
+0,149,0,Qualité seule,0.0,0.0,0.0,0.0
+0,149,0,Contenu seul,0.0,0.0,0.0,0.0
+0,149,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,149,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,149,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,149,1,Aléatoire,0.0,0.0,0.0,0.0
+0,149,1,Popularité,0.0,0.0,0.0,0.0
+0,149,1,Qualité seule,0.0,0.0,0.0,0.0
+0,149,1,Contenu seul,0.0,0.0,0.0,0.0
+0,149,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,149,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,149,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,149,3,Aléatoire,0.0,0.0,0.0,0.0
+0,149,3,Popularité,0.0,0.0,0.0,0.0
+0,149,3,Qualité seule,0.0,0.0,0.0,0.0
+0,149,3,Contenu seul,0.0,0.0,0.0,0.0
+0,149,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,149,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,149,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,149,5,Aléatoire,0.0,0.0,0.0,0.0
+0,149,5,Popularité,0.0,0.0,0.0,0.0
+0,149,5,Qualité seule,0.0,0.0,0.0,0.0
+0,149,5,Contenu seul,0.0,0.0,0.0,0.0
+0,149,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,149,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,149,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,149,10,Aléatoire,0.0,0.0,0.0,0.0
+0,149,10,Popularité,0.0,0.0,0.0,0.0
+0,149,10,Qualité seule,0.0,0.0,0.0,0.0
+0,149,10,Contenu seul,0.0,0.0,0.0,0.0
+0,149,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,149,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,149,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,149,25,Aléatoire,0.0,0.0,0.0,0.0
+0,149,25,Popularité,0.0,0.0,0.0,0.0
+0,149,25,Qualité seule,0.0,0.0,0.0,0.0
+0,149,25,Contenu seul,0.0,0.0,0.0,0.0
+0,149,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,149,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,149,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,150,0,Aléatoire,0.0,0.0,0.0,0.0
+0,150,0,Popularité,0.0,0.0,0.0,0.0
+0,150,0,Qualité seule,0.0,0.0,0.0,0.0
+0,150,0,Contenu seul,0.0,0.0,0.0,0.0
+0,150,0,Collaboratif seul,0.1,0.3333333333333333,1.0,0.1480409554829326
+0,150,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,150,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,150,1,Aléatoire,0.0,0.0,0.0,0.0
+0,150,1,Popularité,0.0,0.0,0.0,0.0
+0,150,1,Qualité seule,0.0,0.0,0.0,0.0
+0,150,1,Contenu seul,0.0,0.0,0.0,0.0
+0,150,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,150,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,150,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,150,3,Aléatoire,0.0,0.0,0.0,0.0
+0,150,3,Popularité,0.0,0.0,0.0,0.0
+0,150,3,Qualité seule,0.0,0.0,0.0,0.0
+0,150,3,Contenu seul,0.0,0.0,0.0,0.0
+0,150,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,150,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,150,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,150,5,Aléatoire,0.0,0.0,0.0,0.0
+0,150,5,Popularité,0.0,0.0,0.0,0.0
+0,150,5,Qualité seule,0.0,0.0,0.0,0.0
+0,150,5,Contenu seul,0.0,0.0,0.0,0.0
+0,150,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,150,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,150,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,150,10,Aléatoire,0.0,0.0,0.0,0.0
+0,150,10,Popularité,0.0,0.0,0.0,0.0
+0,150,10,Qualité seule,0.0,0.0,0.0,0.0
+0,150,10,Contenu seul,0.0,0.0,0.0,0.0
+0,150,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,150,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,150,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,150,25,Aléatoire,0.0,0.0,0.0,0.0
+0,150,25,Popularité,0.0,0.0,0.0,0.0
+0,150,25,Qualité seule,0.0,0.0,0.0,0.0
+0,150,25,Contenu seul,0.0,0.0,0.0,0.0
+0,150,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,150,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,150,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,151,0,Aléatoire,0.0,0.0,0.0,0.0
+0,151,0,Popularité,0.0,0.0,0.0,0.0
+0,151,0,Qualité seule,0.0,0.0,0.0,0.0
+0,151,0,Contenu seul,0.0,0.0,0.0,0.0
+0,151,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,151,0,Hybride sans similarité,0.1,0.25,1.0,0.11284514134893527
+0,151,0,Hybride (complet),0.1,0.25,1.0,0.11284514134893527
+0,151,1,Aléatoire,0.0,0.0,0.0,0.0
+0,151,1,Popularité,0.0,0.0,0.0,0.0
+0,151,1,Qualité seule,0.0,0.0,0.0,0.0
+0,151,1,Contenu seul,0.0,0.0,0.0,0.0
+0,151,1,Collaboratif seul,0.1,0.25,1.0,0.13012668333070054
+0,151,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,151,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,151,3,Aléatoire,0.0,0.0,0.0,0.0
+0,151,3,Popularité,0.0,0.0,0.0,0.0
+0,151,3,Qualité seule,0.0,0.0,0.0,0.0
+0,151,3,Contenu seul,0.1,0.25,1.0,0.15101961822780524
+0,151,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,151,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,151,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,151,5,Aléatoire,0.0,0.0,0.0,0.0
+0,151,5,Popularité,0.0,0.0,0.0,0.0
+0,151,5,Qualité seule,0.0,0.0,0.0,0.0
+0,151,5,Contenu seul,0.0,0.0,0.0,0.0
+0,151,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,151,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,151,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,151,10,Aléatoire,0.0,0.0,0.0,0.0
+0,151,10,Popularité,0.0,0.0,0.0,0.0
+0,151,10,Qualité seule,0.0,0.0,0.0,0.0
+0,151,10,Contenu seul,0.0,0.0,0.0,0.0
+0,151,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,151,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,151,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,151,25,Aléatoire,0.0,0.0,0.0,0.0
+0,151,25,Popularité,0.0,0.0,0.0,0.0
+0,151,25,Qualité seule,0.0,0.0,0.0,0.0
+0,151,25,Contenu seul,0.0,0.0,0.0,0.0
+0,151,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,151,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,151,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,155,0,Aléatoire,0.0,0.0,0.0,0.0
+0,155,0,Popularité,0.0,0.0,0.0,0.0
+0,155,0,Qualité seule,0.0,0.0,0.0,0.0
+0,155,0,Contenu seul,0.0,0.0,0.0,0.0
+0,155,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,155,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,155,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,155,1,Aléatoire,0.0,0.0,0.0,0.0
+0,155,1,Popularité,0.0,0.0,0.0,0.0
+0,155,1,Qualité seule,0.0,0.0,0.0,0.0
+0,155,1,Contenu seul,0.0,0.0,0.0,0.0
+0,155,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,155,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,155,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,155,3,Aléatoire,0.0,0.0,0.0,0.0
+0,155,3,Popularité,0.0,0.0,0.0,0.0
+0,155,3,Qualité seule,0.0,0.0,0.0,0.0
+0,155,3,Contenu seul,0.0,0.0,0.0,0.0
+0,155,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,155,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,155,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,155,5,Aléatoire,0.0,0.0,0.0,0.0
+0,155,5,Popularité,0.0,0.0,0.0,0.0
+0,155,5,Qualité seule,0.0,0.0,0.0,0.0
+0,155,5,Contenu seul,0.0,0.0,0.0,0.0
+0,155,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,155,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,155,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,155,10,Aléatoire,0.0,0.0,0.0,0.0
+0,155,10,Popularité,0.0,0.0,0.0,0.0
+0,155,10,Qualité seule,0.0,0.0,0.0,0.0
+0,155,10,Contenu seul,0.0,0.0,0.0,0.0
+0,155,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,155,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,155,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,155,25,Aléatoire,0.0,0.0,0.0,0.0
+0,155,25,Popularité,0.0,0.0,0.0,0.0
+0,155,25,Qualité seule,0.0,0.0,0.0,0.0
+0,155,25,Contenu seul,0.0,0.0,0.0,0.0
+0,155,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,155,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,155,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,163,0,Aléatoire,0.1,0.25,1.0,0.123151194370365
+0,163,0,Popularité,0.0,0.0,0.0,0.0
+0,163,0,Qualité seule,0.0,0.0,0.0,0.0
+0,163,0,Contenu seul,0.0,0.0,0.0,0.0
+0,163,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,163,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,163,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,163,1,Aléatoire,0.0,0.0,0.0,0.0
+0,163,1,Popularité,0.0,0.0,0.0,0.0
+0,163,1,Qualité seule,0.0,0.0,0.0,0.0
+0,163,1,Contenu seul,0.0,0.0,0.0,0.0
+0,163,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,163,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,163,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,163,3,Aléatoire,0.0,0.0,0.0,0.0
+0,163,3,Popularité,0.0,0.0,0.0,0.0
+0,163,3,Qualité seule,0.0,0.0,0.0,0.0
+0,163,3,Contenu seul,0.0,0.0,0.0,0.0
+0,163,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,163,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,163,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,163,5,Aléatoire,0.0,0.0,0.0,0.0
+0,163,5,Popularité,0.0,0.0,0.0,0.0
+0,163,5,Qualité seule,0.0,0.0,0.0,0.0
+0,163,5,Contenu seul,0.0,0.0,0.0,0.0
+0,163,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,163,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,163,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,163,10,Aléatoire,0.0,0.0,0.0,0.0
+0,163,10,Popularité,0.0,0.0,0.0,0.0
+0,163,10,Qualité seule,0.0,0.0,0.0,0.0
+0,163,10,Contenu seul,0.0,0.0,0.0,0.0
+0,163,10,Collaboratif seul,0.1,0.25,1.0,0.13905617951077562
+0,163,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,163,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,163,25,Aléatoire,0.1,0.25,1.0,0.13012668333070054
+0,163,25,Popularité,0.0,0.0,0.0,0.0
+0,163,25,Qualité seule,0.0,0.0,0.0,0.0
+0,163,25,Contenu seul,0.0,0.0,0.0,0.0
+0,163,25,Collaboratif seul,0.1,0.25,1.0,0.16812753627111746
+0,163,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,163,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,164,0,Aléatoire,0.0,0.0,0.0,0.0
+0,164,0,Popularité,0.0,0.0,0.0,0.0
+0,164,0,Qualité seule,0.0,0.0,0.0,0.0
+0,164,0,Contenu seul,0.0,0.0,0.0,0.0
+0,164,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,164,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,164,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,164,1,Aléatoire,0.0,0.0,0.0,0.0
+0,164,1,Popularité,0.0,0.0,0.0,0.0
+0,164,1,Qualité seule,0.0,0.0,0.0,0.0
+0,164,1,Contenu seul,0.0,0.0,0.0,0.0
+0,164,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,164,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,164,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,164,3,Aléatoire,0.0,0.0,0.0,0.0
+0,164,3,Popularité,0.0,0.0,0.0,0.0
+0,164,3,Qualité seule,0.0,0.0,0.0,0.0
+0,164,3,Contenu seul,0.0,0.0,0.0,0.0
+0,164,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,164,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,164,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,164,5,Aléatoire,0.0,0.0,0.0,0.0
+0,164,5,Popularité,0.0,0.0,0.0,0.0
+0,164,5,Qualité seule,0.0,0.0,0.0,0.0
+0,164,5,Contenu seul,0.0,0.0,0.0,0.0
+0,164,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,164,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,164,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,164,10,Aléatoire,0.0,0.0,0.0,0.0
+0,164,10,Popularité,0.0,0.0,0.0,0.0
+0,164,10,Qualité seule,0.0,0.0,0.0,0.0
+0,164,10,Contenu seul,0.0,0.0,0.0,0.0
+0,164,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,164,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,164,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,164,25,Aléatoire,0.0,0.0,0.0,0.0
+0,164,25,Popularité,0.0,0.0,0.0,0.0
+0,164,25,Qualité seule,0.0,0.0,0.0,0.0
+0,164,25,Contenu seul,0.0,0.0,0.0,0.0
+0,164,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,164,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,164,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,177,0,Aléatoire,0.0,0.0,0.0,0.0
+0,177,0,Popularité,0.0,0.0,0.0,0.0
+0,177,0,Qualité seule,0.0,0.0,0.0,0.0
+0,177,0,Contenu seul,0.0,0.0,0.0,0.0
+0,177,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,177,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,177,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,177,1,Aléatoire,0.0,0.0,0.0,0.0
+0,177,1,Popularité,0.0,0.0,0.0,0.0
+0,177,1,Qualité seule,0.0,0.0,0.0,0.0
+0,177,1,Contenu seul,0.0,0.0,0.0,0.0
+0,177,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,177,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,177,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,177,3,Aléatoire,0.0,0.0,0.0,0.0
+0,177,3,Popularité,0.0,0.0,0.0,0.0
+0,177,3,Qualité seule,0.0,0.0,0.0,0.0
+0,177,3,Contenu seul,0.0,0.0,0.0,0.0
+0,177,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,177,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,177,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,177,5,Aléatoire,0.0,0.0,0.0,0.0
+0,177,5,Popularité,0.0,0.0,0.0,0.0
+0,177,5,Qualité seule,0.0,0.0,0.0,0.0
+0,177,5,Contenu seul,0.0,0.0,0.0,0.0
+0,177,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,177,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,177,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,177,10,Aléatoire,0.0,0.0,0.0,0.0
+0,177,10,Popularité,0.0,0.0,0.0,0.0
+0,177,10,Qualité seule,0.0,0.0,0.0,0.0
+0,177,10,Contenu seul,0.0,0.0,0.0,0.0
+0,177,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,177,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,177,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,177,25,Aléatoire,0.0,0.0,0.0,0.0
+0,177,25,Popularité,0.0,0.0,0.0,0.0
+0,177,25,Qualité seule,0.0,0.0,0.0,0.0
+0,177,25,Contenu seul,0.0,0.0,0.0,0.0
+0,177,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,177,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,177,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,179,0,Aléatoire,0.0,0.0,0.0,0.0
+0,179,0,Popularité,0.0,0.0,0.0,0.0
+0,179,0,Qualité seule,0.0,0.0,0.0,0.0
+0,179,0,Contenu seul,0.0,0.0,0.0,0.0
+0,179,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,179,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,179,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,179,1,Aléatoire,0.0,0.0,0.0,0.0
+0,179,1,Popularité,0.0,0.0,0.0,0.0
+0,179,1,Qualité seule,0.0,0.0,0.0,0.0
+0,179,1,Contenu seul,0.0,0.0,0.0,0.0
+0,179,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,179,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,179,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,179,3,Aléatoire,0.0,0.0,0.0,0.0
+0,179,3,Popularité,0.0,0.0,0.0,0.0
+0,179,3,Qualité seule,0.0,0.0,0.0,0.0
+0,179,3,Contenu seul,0.0,0.0,0.0,0.0
+0,179,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,179,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,179,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,179,5,Aléatoire,0.0,0.0,0.0,0.0
+0,179,5,Popularité,0.0,0.0,0.0,0.0
+0,179,5,Qualité seule,0.0,0.0,0.0,0.0
+0,179,5,Contenu seul,0.0,0.0,0.0,0.0
+0,179,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,179,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,179,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,179,10,Aléatoire,0.0,0.0,0.0,0.0
+0,179,10,Popularité,0.0,0.0,0.0,0.0
+0,179,10,Qualité seule,0.0,0.0,0.0,0.0
+0,179,10,Contenu seul,0.0,0.0,0.0,0.0
+0,179,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,179,10,Hybride sans similarité,0.1,0.14285714285714285,1.0,0.09162544430476362
+0,179,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,179,25,Aléatoire,0.0,0.0,0.0,0.0
+0,179,25,Popularité,0.0,0.0,0.0,0.0
+0,179,25,Qualité seule,0.0,0.0,0.0,0.0
+0,179,25,Contenu seul,0.0,0.0,0.0,0.0
+0,179,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,179,25,Hybride sans similarité,0.1,0.14285714285714285,1.0,0.08274602130532002
+0,179,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,187,0,Aléatoire,0.0,0.0,0.0,0.0
+0,187,0,Popularité,0.0,0.0,0.0,0.0
+0,187,0,Qualité seule,0.0,0.0,0.0,0.0
+0,187,0,Contenu seul,0.0,0.0,0.0,0.0
+0,187,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,187,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,187,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,187,1,Aléatoire,0.0,0.0,0.0,0.0
+0,187,1,Popularité,0.0,0.0,0.0,0.0
+0,187,1,Qualité seule,0.0,0.0,0.0,0.0
+0,187,1,Contenu seul,0.0,0.0,0.0,0.0
+0,187,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,187,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,187,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,187,3,Aléatoire,0.0,0.0,0.0,0.0
+0,187,3,Popularité,0.0,0.0,0.0,0.0
+0,187,3,Qualité seule,0.0,0.0,0.0,0.0
+0,187,3,Contenu seul,0.0,0.0,0.0,0.0
+0,187,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,187,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,187,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,187,5,Aléatoire,0.0,0.0,0.0,0.0
+0,187,5,Popularité,0.0,0.0,0.0,0.0
+0,187,5,Qualité seule,0.0,0.0,0.0,0.0
+0,187,5,Contenu seul,0.0,0.0,0.0,0.0
+0,187,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,187,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,187,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,187,10,Aléatoire,0.0,0.0,0.0,0.0
+0,187,10,Popularité,0.0,0.0,0.0,0.0
+0,187,10,Qualité seule,0.0,0.0,0.0,0.0
+0,187,10,Contenu seul,0.0,0.0,0.0,0.0
+0,187,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,187,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,187,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,187,25,Aléatoire,0.0,0.0,0.0,0.0
+0,187,25,Popularité,0.0,0.0,0.0,0.0
+0,187,25,Qualité seule,0.0,0.0,0.0,0.0
+0,187,25,Contenu seul,0.0,0.0,0.0,0.0
+0,187,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,187,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,187,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,192,0,Aléatoire,0.0,0.0,0.0,0.0
+0,192,0,Popularité,0.0,0.0,0.0,0.0
+0,192,0,Qualité seule,0.1,0.16666666666666666,1.0,0.0874717141014082
+0,192,0,Contenu seul,0.0,0.0,0.0,0.0
+0,192,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,192,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,192,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,192,1,Aléatoire,0.0,0.0,0.0,0.0
+0,192,1,Popularité,0.0,0.0,0.0,0.0
+0,192,1,Qualité seule,0.1,0.16666666666666666,1.0,0.0874717141014082
+0,192,1,Contenu seul,0.0,0.0,0.0,0.0
+0,192,1,Collaboratif seul,0.1,0.16666666666666666,1.0,0.13032376591037062
+0,192,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,192,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,192,3,Aléatoire,0.0,0.0,0.0,0.0
+0,192,3,Popularité,0.0,0.0,0.0,0.0
+0,192,3,Qualité seule,0.1,0.16666666666666666,1.0,0.0874717141014082
+0,192,3,Contenu seul,0.0,0.0,0.0,0.0
+0,192,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,192,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,192,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,192,5,Aléatoire,0.0,0.0,0.0,0.0
+0,192,5,Popularité,0.0,0.0,0.0,0.0
+0,192,5,Qualité seule,0.1,0.16666666666666666,1.0,0.0874717141014082
+0,192,5,Contenu seul,0.1,0.16666666666666666,1.0,0.09109240322345806
+0,192,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,192,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,192,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,192,10,Aléatoire,0.0,0.0,0.0,0.0
+0,192,10,Popularité,0.0,0.0,0.0,0.0
+0,192,10,Qualité seule,0.1,0.16666666666666666,1.0,0.0874717141014082
+0,192,10,Contenu seul,0.1,0.16666666666666666,1.0,0.13032376591037062
+0,192,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,192,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,192,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,192,25,Aléatoire,0.0,0.0,0.0,0.0
+0,192,25,Popularité,0.0,0.0,0.0,0.0
+0,192,25,Qualité seule,0.1,0.16666666666666666,1.0,0.0874717141014082
+0,192,25,Contenu seul,0.0,0.0,0.0,0.0
+0,192,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,192,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,192,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,198,0,Aléatoire,0.0,0.0,0.0,0.0
+0,198,0,Popularité,0.0,0.0,0.0,0.0
+0,198,0,Qualité seule,0.0,0.0,0.0,0.0
+0,198,0,Contenu seul,0.0,0.0,0.0,0.0
+0,198,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,198,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,198,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,198,1,Aléatoire,0.0,0.0,0.0,0.0
+0,198,1,Popularité,0.0,0.0,0.0,0.0
+0,198,1,Qualité seule,0.0,0.0,0.0,0.0
+0,198,1,Contenu seul,0.0,0.0,0.0,0.0
+0,198,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,198,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,198,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,198,3,Aléatoire,0.0,0.0,0.0,0.0
+0,198,3,Popularité,0.0,0.0,0.0,0.0
+0,198,3,Qualité seule,0.0,0.0,0.0,0.0
+0,198,3,Contenu seul,0.0,0.0,0.0,0.0
+0,198,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,198,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,198,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,198,5,Aléatoire,0.0,0.0,0.0,0.0
+0,198,5,Popularité,0.0,0.0,0.0,0.0
+0,198,5,Qualité seule,0.0,0.0,0.0,0.0
+0,198,5,Contenu seul,0.0,0.0,0.0,0.0
+0,198,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,198,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,198,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,198,10,Aléatoire,0.0,0.0,0.0,0.0
+0,198,10,Popularité,0.0,0.0,0.0,0.0
+0,198,10,Qualité seule,0.0,0.0,0.0,0.0
+0,198,10,Contenu seul,0.0,0.0,0.0,0.0
+0,198,10,Collaboratif seul,0.1,0.25,1.0,0.16812753627111746
+0,198,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,198,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,198,25,Aléatoire,0.0,0.0,0.0,0.0
+0,198,25,Popularité,0.0,0.0,0.0,0.0
+0,198,25,Qualité seule,0.0,0.0,0.0,0.0
+0,198,25,Contenu seul,0.0,0.0,0.0,0.0
+0,198,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,198,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,198,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,204,0,Aléatoire,0.0,0.0,0.0,0.0
+0,204,0,Popularité,0.0,0.0,0.0,0.0
+0,204,0,Qualité seule,0.1,1.0,1.0,0.6309297535714575
+0,204,0,Contenu seul,0.0,0.0,0.0,0.0
+0,204,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,204,0,Hybride sans similarité,0.1,1.0,1.0,0.6309297535714575
+0,204,0,Hybride (complet),0.1,1.0,1.0,0.6309297535714575
+0,204,1,Aléatoire,0.0,0.0,0.0,0.0
+0,204,1,Popularité,0.0,0.0,0.0,0.0
+0,204,1,Qualité seule,0.1,1.0,1.0,0.6309297535714575
+0,204,1,Contenu seul,0.0,0.0,0.0,0.0
+0,204,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,204,1,Hybride sans similarité,0.1,1.0,1.0,0.31546487678572877
+0,204,1,Hybride (complet),0.1,1.0,1.0,0.31546487678572877
+0,204,3,Aléatoire,0.0,0.0,0.0,0.0
+0,204,3,Popularité,0.0,0.0,0.0,0.0
+0,204,3,Qualité seule,0.1,1.0,1.0,0.6309297535714575
+0,204,3,Contenu seul,0.0,0.0,0.0,0.0
+0,204,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,204,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,204,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,204,5,Aléatoire,0.0,0.0,0.0,0.0
+0,204,5,Popularité,0.0,0.0,0.0,0.0
+0,204,5,Qualité seule,0.1,1.0,1.0,0.6309297535714575
+0,204,5,Contenu seul,0.0,0.0,0.0,0.0
+0,204,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,204,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,204,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,204,10,Aléatoire,0.0,0.0,0.0,0.0
+0,204,10,Popularité,0.0,0.0,0.0,0.0
+0,204,10,Qualité seule,0.1,1.0,1.0,0.6309297535714575
+0,204,10,Contenu seul,0.0,0.0,0.0,0.0
+0,204,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,204,10,Hybride sans similarité,0.1,1.0,1.0,0.2890648263178879
+0,204,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,204,25,Aléatoire,0.0,0.0,0.0,0.0
+0,204,25,Popularité,0.0,0.0,0.0,0.0
+0,204,25,Qualité seule,0.1,1.0,1.0,0.6309297535714575
+0,204,25,Contenu seul,0.0,0.0,0.0,0.0
+0,204,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,204,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,204,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,205,0,Aléatoire,0.1,0.25,1.0,0.16812753627111746
+0,205,0,Popularité,0.2,0.5,1.0,0.5078961547485289
+0,205,0,Qualité seule,0.1,0.25,1.0,0.11284514134893527
+0,205,0,Contenu seul,0.0,0.0,0.0,0.0
+0,205,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,205,0,Hybride sans similarité,0.1,0.25,1.0,0.13012668333070054
+0,205,0,Hybride (complet),0.1,0.25,1.0,0.13012668333070054
+0,205,1,Aléatoire,0.0,0.0,0.0,0.0
+0,205,1,Popularité,0.2,0.5,1.0,0.5135312443624667
+0,205,1,Qualité seule,0.1,0.25,1.0,0.11284514134893527
+0,205,1,Contenu seul,0.0,0.0,0.0,0.0
+0,205,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,205,1,Hybride sans similarité,0.1,0.25,1.0,0.3903800499921017
+0,205,1,Hybride (complet),0.1,0.25,1.0,0.3903800499921017
+0,205,3,Aléatoire,0.0,0.0,0.0,0.0
+0,205,3,Popularité,0.2,0.5,1.0,0.5135312443624667
+0,205,3,Qualité seule,0.1,0.25,1.0,0.11284514134893527
+0,205,3,Contenu seul,0.0,0.0,0.0,0.0
+0,205,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,205,3,Hybride sans similarité,0.1,0.25,1.0,0.123151194370365
+0,205,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,205,5,Aléatoire,0.0,0.0,0.0,0.0
+0,205,5,Popularité,0.2,0.5,1.0,0.5032251913410369
+0,205,5,Qualité seule,0.1,0.25,1.0,0.11284514134893527
+0,205,5,Contenu seul,0.0,0.0,0.0,0.0
+0,205,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,205,5,Hybride sans similarité,0.1,0.25,1.0,0.16812753627111746
+0,205,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,205,10,Aléatoire,0.0,0.0,0.0,0.0
+0,205,10,Popularité,0.2,0.5,1.0,0.5032251913410369
+0,205,10,Qualité seule,0.1,0.25,1.0,0.11284514134893527
+0,205,10,Contenu seul,0.1,0.25,1.0,0.15101961822780524
+0,205,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,205,10,Hybride sans similarité,0.1,0.25,1.0,0.16812753627111746
+0,205,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,205,25,Aléatoire,0.0,0.0,0.0,0.0
+0,205,25,Popularité,0.2,0.5,1.0,0.5032251913410369
+0,205,25,Qualité seule,0.1,0.25,1.0,0.11284514134893527
+0,205,25,Contenu seul,0.0,0.0,0.0,0.0
+0,205,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,205,25,Hybride sans similarité,0.1,0.25,1.0,0.16812753627111746
+0,205,25,Hybride (complet),0.1,0.25,1.0,0.123151194370365
+0,206,0,Aléatoire,0.0,0.0,0.0,0.0
+0,206,0,Popularité,0.0,0.0,0.0,0.0
+0,206,0,Qualité seule,0.0,0.0,0.0,0.0
+0,206,0,Contenu seul,0.0,0.0,0.0,0.0
+0,206,0,Collaboratif seul,0.1,0.16666666666666666,1.0,0.0874717141014082
+0,206,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,206,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,206,1,Aléatoire,0.0,0.0,0.0,0.0
+0,206,1,Popularité,0.0,0.0,0.0,0.0
+0,206,1,Qualité seule,0.0,0.0,0.0,0.0
+0,206,1,Contenu seul,0.0,0.0,0.0,0.0
+0,206,1,Collaboratif seul,0.1,0.16666666666666666,1.0,0.10086747116627115
+0,206,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,206,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,206,3,Aléatoire,0.1,0.16666666666666666,1.0,0.10086747116627115
+0,206,3,Popularité,0.0,0.0,0.0,0.0
+0,206,3,Qualité seule,0.0,0.0,0.0,0.0
+0,206,3,Contenu seul,0.0,0.0,0.0,0.0
+0,206,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,206,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,206,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,206,5,Aléatoire,0.0,0.0,0.0,0.0
+0,206,5,Popularité,0.0,0.0,0.0,0.0
+0,206,5,Qualité seule,0.0,0.0,0.0,0.0
+0,206,5,Contenu seul,0.0,0.0,0.0,0.0
+0,206,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,206,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,206,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,206,10,Aléatoire,0.0,0.0,0.0,0.0
+0,206,10,Popularité,0.0,0.0,0.0,0.0
+0,206,10,Qualité seule,0.0,0.0,0.0,0.0
+0,206,10,Contenu seul,0.0,0.0,0.0,0.0
+0,206,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,206,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,206,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,206,25,Aléatoire,0.0,0.0,0.0,0.0
+0,206,25,Popularité,0.0,0.0,0.0,0.0
+0,206,25,Qualité seule,0.0,0.0,0.0,0.0
+0,206,25,Contenu seul,0.1,0.16666666666666666,1.0,0.10778915452451093
+0,206,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,206,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,206,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,214,0,Aléatoire,0.0,0.0,0.0,0.0
+0,214,0,Popularité,0.0,0.0,0.0,0.0
+0,214,0,Qualité seule,0.0,0.0,0.0,0.0
+0,214,0,Contenu seul,0.0,0.0,0.0,0.0
+0,214,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,214,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,214,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,214,1,Aléatoire,0.0,0.0,0.0,0.0
+0,214,1,Popularité,0.0,0.0,0.0,0.0
+0,214,1,Qualité seule,0.0,0.0,0.0,0.0
+0,214,1,Contenu seul,0.0,0.0,0.0,0.0
+0,214,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,214,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,214,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,214,3,Aléatoire,0.0,0.0,0.0,0.0
+0,214,3,Popularité,0.0,0.0,0.0,0.0
+0,214,3,Qualité seule,0.0,0.0,0.0,0.0
+0,214,3,Contenu seul,0.0,0.0,0.0,0.0
+0,214,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,214,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,214,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,214,5,Aléatoire,0.0,0.0,0.0,0.0
+0,214,5,Popularité,0.0,0.0,0.0,0.0
+0,214,5,Qualité seule,0.0,0.0,0.0,0.0
+0,214,5,Contenu seul,0.0,0.0,0.0,0.0
+0,214,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,214,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,214,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,214,10,Aléatoire,0.0,0.0,0.0,0.0
+0,214,10,Popularité,0.0,0.0,0.0,0.0
+0,214,10,Qualité seule,0.0,0.0,0.0,0.0
+0,214,10,Contenu seul,0.0,0.0,0.0,0.0
+0,214,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,214,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,214,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,214,25,Aléatoire,0.0,0.0,0.0,0.0
+0,214,25,Popularité,0.0,0.0,0.0,0.0
+0,214,25,Qualité seule,0.0,0.0,0.0,0.0
+0,214,25,Contenu seul,0.0,0.0,0.0,0.0
+0,214,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,214,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,214,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,223,0,Aléatoire,0.0,0.0,0.0,0.0
+0,223,0,Popularité,0.0,0.0,0.0,0.0
+0,223,0,Qualité seule,0.1,0.25,1.0,0.19519002499605084
+0,223,0,Contenu seul,0.1,0.25,1.0,0.11284514134893527
+0,223,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,223,0,Hybride sans similarité,0.1,0.25,1.0,0.15101961822780524
+0,223,0,Hybride (complet),0.1,0.25,1.0,0.15101961822780524
+0,223,1,Aléatoire,0.0,0.0,0.0,0.0
+0,223,1,Popularité,0.0,0.0,0.0,0.0
+0,223,1,Qualité seule,0.1,0.25,1.0,0.19519002499605084
+0,223,1,Contenu seul,0.0,0.0,0.0,0.0
+0,223,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,223,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,223,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,223,3,Aléatoire,0.0,0.0,0.0,0.0
+0,223,3,Popularité,0.0,0.0,0.0,0.0
+0,223,3,Qualité seule,0.1,0.25,1.0,0.19519002499605084
+0,223,3,Contenu seul,0.0,0.0,0.0,0.0
+0,223,3,Collaboratif seul,0.1,0.25,1.0,0.24630238874073
+0,223,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,223,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,223,5,Aléatoire,0.1,0.25,1.0,0.13905617951077562
+0,223,5,Popularité,0.0,0.0,0.0,0.0
+0,223,5,Qualité seule,0.1,0.25,1.0,0.19519002499605084
+0,223,5,Contenu seul,0.0,0.0,0.0,0.0
+0,223,5,Collaboratif seul,0.1,0.25,1.0,0.11284514134893527
+0,223,5,Hybride sans similarité,0.1,0.25,1.0,0.13905617951077562
+0,223,5,Hybride (complet),0.1,0.25,1.0,0.19519002499605084
+0,223,10,Aléatoire,0.1,0.25,1.0,0.11751610475642714
+0,223,10,Popularité,0.0,0.0,0.0,0.0
+0,223,10,Qualité seule,0.1,0.25,1.0,0.19519002499605084
+0,223,10,Contenu seul,0.0,0.0,0.0,0.0
+0,223,10,Collaboratif seul,0.1,0.25,1.0,0.11284514134893527
+0,223,10,Hybride sans similarité,0.1,0.25,1.0,0.13905617951077562
+0,223,10,Hybride (complet),0.1,0.25,1.0,0.19519002499605084
+0,223,25,Aléatoire,0.0,0.0,0.0,0.0
+0,223,25,Popularité,0.0,0.0,0.0,0.0
+0,223,25,Qualité seule,0.1,0.25,1.0,0.19519002499605084
+0,223,25,Contenu seul,0.0,0.0,0.0,0.0
+0,223,25,Collaboratif seul,0.1,0.25,1.0,0.3903800499921017
+0,223,25,Hybride sans similarité,0.1,0.25,1.0,0.13905617951077562
+0,223,25,Hybride (complet),0.1,0.25,1.0,0.16812753627111746
+0,229,0,Aléatoire,0.0,0.0,0.0,0.0
+0,229,0,Popularité,0.0,0.0,0.0,0.0
+0,229,0,Qualité seule,0.0,0.0,0.0,0.0
+0,229,0,Contenu seul,0.0,0.0,0.0,0.0
+0,229,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,229,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,229,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,229,1,Aléatoire,0.0,0.0,0.0,0.0
+0,229,1,Popularité,0.0,0.0,0.0,0.0
+0,229,1,Qualité seule,0.0,0.0,0.0,0.0
+0,229,1,Contenu seul,0.0,0.0,0.0,0.0
+0,229,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,229,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,229,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,229,3,Aléatoire,0.0,0.0,0.0,0.0
+0,229,3,Popularité,0.0,0.0,0.0,0.0
+0,229,3,Qualité seule,0.0,0.0,0.0,0.0
+0,229,3,Contenu seul,0.1,0.5,1.0,0.2640681225725909
+0,229,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,229,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,229,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,229,5,Aléatoire,0.0,0.0,0.0,0.0
+0,229,5,Popularité,0.0,0.0,0.0,0.0
+0,229,5,Qualité seule,0.0,0.0,0.0,0.0
+0,229,5,Contenu seul,0.0,0.0,0.0,0.0
+0,229,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,229,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,229,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,229,10,Aléatoire,0.0,0.0,0.0,0.0
+0,229,10,Popularité,0.0,0.0,0.0,0.0
+0,229,10,Qualité seule,0.0,0.0,0.0,0.0
+0,229,10,Contenu seul,0.0,0.0,0.0,0.0
+0,229,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,229,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,229,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,229,25,Aléatoire,0.0,0.0,0.0,0.0
+0,229,25,Popularité,0.0,0.0,0.0,0.0
+0,229,25,Qualité seule,0.0,0.0,0.0,0.0
+0,229,25,Contenu seul,0.0,0.0,0.0,0.0
+0,229,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,229,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,229,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,230,0,Aléatoire,0.0,0.0,0.0,0.0
+0,230,0,Popularité,0.0,0.0,0.0,0.0
+0,230,0,Qualité seule,0.0,0.0,0.0,0.0
+0,230,0,Contenu seul,0.0,0.0,0.0,0.0
+0,230,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,230,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,230,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,230,1,Aléatoire,0.0,0.0,0.0,0.0
+0,230,1,Popularité,0.0,0.0,0.0,0.0
+0,230,1,Qualité seule,0.0,0.0,0.0,0.0
+0,230,1,Contenu seul,0.1,0.5,1.0,0.6131471927654584
+0,230,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,230,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,230,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,230,3,Aléatoire,0.0,0.0,0.0,0.0
+0,230,3,Popularité,0.0,0.0,0.0,0.0
+0,230,3,Qualité seule,0.0,0.0,0.0,0.0
+0,230,3,Contenu seul,0.0,0.0,0.0,0.0
+0,230,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,230,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,230,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,230,5,Aléatoire,0.0,0.0,0.0,0.0
+0,230,5,Popularité,0.0,0.0,0.0,0.0
+0,230,5,Qualité seule,0.0,0.0,0.0,0.0
+0,230,5,Contenu seul,0.0,0.0,0.0,0.0
+0,230,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,230,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,230,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,230,10,Aléatoire,0.0,0.0,0.0,0.0
+0,230,10,Popularité,0.0,0.0,0.0,0.0
+0,230,10,Qualité seule,0.0,0.0,0.0,0.0
+0,230,10,Contenu seul,0.0,0.0,0.0,0.0
+0,230,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,230,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,230,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,230,25,Aléatoire,0.0,0.0,0.0,0.0
+0,230,25,Popularité,0.0,0.0,0.0,0.0
+0,230,25,Qualité seule,0.0,0.0,0.0,0.0
+0,230,25,Contenu seul,0.0,0.0,0.0,0.0
+0,230,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,230,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,230,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,231,0,Aléatoire,0.0,0.0,0.0,0.0
+0,231,0,Popularité,0.0,0.0,0.0,0.0
+0,231,0,Qualité seule,0.0,0.0,0.0,0.0
+0,231,0,Contenu seul,0.0,0.0,0.0,0.0
+0,231,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,231,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,231,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,231,1,Aléatoire,0.0,0.0,0.0,0.0
+0,231,1,Popularité,0.0,0.0,0.0,0.0
+0,231,1,Qualité seule,0.0,0.0,0.0,0.0
+0,231,1,Contenu seul,0.0,0.0,0.0,0.0
+0,231,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,231,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,231,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,231,3,Aléatoire,0.0,0.0,0.0,0.0
+0,231,3,Popularité,0.0,0.0,0.0,0.0
+0,231,3,Qualité seule,0.0,0.0,0.0,0.0
+0,231,3,Contenu seul,0.0,0.0,0.0,0.0
+0,231,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,231,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,231,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,231,5,Aléatoire,0.0,0.0,0.0,0.0
+0,231,5,Popularité,0.0,0.0,0.0,0.0
+0,231,5,Qualité seule,0.0,0.0,0.0,0.0
+0,231,5,Contenu seul,0.0,0.0,0.0,0.0
+0,231,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,231,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,231,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,231,10,Aléatoire,0.0,0.0,0.0,0.0
+0,231,10,Popularité,0.0,0.0,0.0,0.0
+0,231,10,Qualité seule,0.0,0.0,0.0,0.0
+0,231,10,Contenu seul,0.0,0.0,0.0,0.0
+0,231,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,231,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,231,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,231,25,Aléatoire,0.0,0.0,0.0,0.0
+0,231,25,Popularité,0.0,0.0,0.0,0.0
+0,231,25,Qualité seule,0.0,0.0,0.0,0.0
+0,231,25,Contenu seul,0.0,0.0,0.0,0.0
+0,231,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,231,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,231,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,237,0,Aléatoire,0.0,0.0,0.0,0.0
+0,237,0,Popularité,0.0,0.0,0.0,0.0
+0,237,0,Qualité seule,0.0,0.0,0.0,0.0
+0,237,0,Contenu seul,0.0,0.0,0.0,0.0
+0,237,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,237,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,237,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,237,1,Aléatoire,0.0,0.0,0.0,0.0
+0,237,1,Popularité,0.0,0.0,0.0,0.0
+0,237,1,Qualité seule,0.0,0.0,0.0,0.0
+0,237,1,Contenu seul,0.0,0.0,0.0,0.0
+0,237,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,237,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,237,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,237,3,Aléatoire,0.0,0.0,0.0,0.0
+0,237,3,Popularité,0.0,0.0,0.0,0.0
+0,237,3,Qualité seule,0.0,0.0,0.0,0.0
+0,237,3,Contenu seul,0.0,0.0,0.0,0.0
+0,237,3,Collaboratif seul,0.1,0.5,1.0,0.18457569677956817
+0,237,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,237,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,237,5,Aléatoire,0.0,0.0,0.0,0.0
+0,237,5,Popularité,0.0,0.0,0.0,0.0
+0,237,5,Qualité seule,0.0,0.0,0.0,0.0
+0,237,5,Contenu seul,0.0,0.0,0.0,0.0
+0,237,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,237,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,237,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,237,10,Aléatoire,0.0,0.0,0.0,0.0
+0,237,10,Popularité,0.0,0.0,0.0,0.0
+0,237,10,Qualité seule,0.0,0.0,0.0,0.0
+0,237,10,Contenu seul,0.0,0.0,0.0,0.0
+0,237,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,237,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,237,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,237,25,Aléatoire,0.0,0.0,0.0,0.0
+0,237,25,Popularité,0.0,0.0,0.0,0.0
+0,237,25,Qualité seule,0.0,0.0,0.0,0.0
+0,237,25,Contenu seul,0.0,0.0,0.0,0.0
+0,237,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,237,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,237,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,238,0,Aléatoire,0.0,0.0,0.0,0.0
+0,238,0,Popularité,0.0,0.0,0.0,0.0
+0,238,0,Qualité seule,0.0,0.0,0.0,0.0
+0,238,0,Contenu seul,0.0,0.0,0.0,0.0
+0,238,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,238,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,238,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,238,1,Aléatoire,0.0,0.0,0.0,0.0
+0,238,1,Popularité,0.0,0.0,0.0,0.0
+0,238,1,Qualité seule,0.0,0.0,0.0,0.0
+0,238,1,Contenu seul,0.0,0.0,0.0,0.0
+0,238,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,238,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,238,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,238,3,Aléatoire,0.0,0.0,0.0,0.0
+0,238,3,Popularité,0.0,0.0,0.0,0.0
+0,238,3,Qualité seule,0.0,0.0,0.0,0.0
+0,238,3,Contenu seul,0.0,0.0,0.0,0.0
+0,238,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,238,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,238,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,238,5,Aléatoire,0.0,0.0,0.0,0.0
+0,238,5,Popularité,0.0,0.0,0.0,0.0
+0,238,5,Qualité seule,0.0,0.0,0.0,0.0
+0,238,5,Contenu seul,0.0,0.0,0.0,0.0
+0,238,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,238,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,238,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,238,10,Aléatoire,0.0,0.0,0.0,0.0
+0,238,10,Popularité,0.0,0.0,0.0,0.0
+0,238,10,Qualité seule,0.0,0.0,0.0,0.0
+0,238,10,Contenu seul,0.0,0.0,0.0,0.0
+0,238,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,238,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,238,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,238,25,Aléatoire,0.0,0.0,0.0,0.0
+0,238,25,Popularité,0.0,0.0,0.0,0.0
+0,238,25,Qualité seule,0.0,0.0,0.0,0.0
+0,238,25,Contenu seul,0.1,0.5,1.0,0.2640681225725909
+0,238,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,238,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,238,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,244,0,Aléatoire,0.0,0.0,0.0,0.0
+0,244,0,Popularité,0.0,0.0,0.0,0.0
+0,244,0,Qualité seule,0.0,0.0,0.0,0.0
+0,244,0,Contenu seul,0.0,0.0,0.0,0.0
+0,244,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,244,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,244,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,244,1,Aléatoire,0.0,0.0,0.0,0.0
+0,244,1,Popularité,0.0,0.0,0.0,0.0
+0,244,1,Qualité seule,0.0,0.0,0.0,0.0
+0,244,1,Contenu seul,0.0,0.0,0.0,0.0
+0,244,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,244,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,244,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,244,3,Aléatoire,0.0,0.0,0.0,0.0
+0,244,3,Popularité,0.0,0.0,0.0,0.0
+0,244,3,Qualité seule,0.0,0.0,0.0,0.0
+0,244,3,Contenu seul,0.0,0.0,0.0,0.0
+0,244,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,244,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,244,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,244,5,Aléatoire,0.0,0.0,0.0,0.0
+0,244,5,Popularité,0.0,0.0,0.0,0.0
+0,244,5,Qualité seule,0.0,0.0,0.0,0.0
+0,244,5,Contenu seul,0.0,0.0,0.0,0.0
+0,244,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,244,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,244,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,244,10,Aléatoire,0.0,0.0,0.0,0.0
+0,244,10,Popularité,0.0,0.0,0.0,0.0
+0,244,10,Qualité seule,0.0,0.0,0.0,0.0
+0,244,10,Contenu seul,0.0,0.0,0.0,0.0
+0,244,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,244,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,244,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,244,25,Aléatoire,0.0,0.0,0.0,0.0
+0,244,25,Popularité,0.0,0.0,0.0,0.0
+0,244,25,Qualité seule,0.0,0.0,0.0,0.0
+0,244,25,Contenu seul,0.1,1.0,1.0,0.31546487678572877
+0,244,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,244,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,244,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,248,0,Aléatoire,0.0,0.0,0.0,0.0
+0,248,0,Popularité,0.0,0.0,0.0,0.0
+0,248,0,Qualité seule,0.0,0.0,0.0,0.0
+0,248,0,Contenu seul,0.0,0.0,0.0,0.0
+0,248,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,248,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,248,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,248,1,Aléatoire,0.0,0.0,0.0,0.0
+0,248,1,Popularité,0.0,0.0,0.0,0.0
+0,248,1,Qualité seule,0.0,0.0,0.0,0.0
+0,248,1,Contenu seul,0.0,0.0,0.0,0.0
+0,248,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,248,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,248,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,248,3,Aléatoire,0.1,0.5,1.0,0.17723928678404774
+0,248,3,Popularité,0.0,0.0,0.0,0.0
+0,248,3,Qualité seule,0.0,0.0,0.0,0.0
+0,248,3,Contenu seul,0.0,0.0,0.0,0.0
+0,248,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,248,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,248,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,248,5,Aléatoire,0.0,0.0,0.0,0.0
+0,248,5,Popularité,0.0,0.0,0.0,0.0
+0,248,5,Qualité seule,0.0,0.0,0.0,0.0
+0,248,5,Contenu seul,0.0,0.0,0.0,0.0
+0,248,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,248,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,248,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,248,10,Aléatoire,0.0,0.0,0.0,0.0
+0,248,10,Popularité,0.0,0.0,0.0,0.0
+0,248,10,Qualité seule,0.0,0.0,0.0,0.0
+0,248,10,Contenu seul,0.0,0.0,0.0,0.0
+0,248,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,248,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,248,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,248,25,Aléatoire,0.0,0.0,0.0,0.0
+0,248,25,Popularité,0.0,0.0,0.0,0.0
+0,248,25,Qualité seule,0.0,0.0,0.0,0.0
+0,248,25,Contenu seul,0.0,0.0,0.0,0.0
+0,248,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,248,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,248,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,254,0,Aléatoire,0.0,0.0,0.0,0.0
+0,254,0,Popularité,0.0,0.0,0.0,0.0
+0,254,0,Qualité seule,0.0,0.0,0.0,0.0
+0,254,0,Contenu seul,0.0,0.0,0.0,0.0
+0,254,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,254,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,254,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,254,1,Aléatoire,0.0,0.0,0.0,0.0
+0,254,1,Popularité,0.0,0.0,0.0,0.0
+0,254,1,Qualité seule,0.0,0.0,0.0,0.0
+0,254,1,Contenu seul,0.0,0.0,0.0,0.0
+0,254,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,254,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,254,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,254,3,Aléatoire,0.0,0.0,0.0,0.0
+0,254,3,Popularité,0.0,0.0,0.0,0.0
+0,254,3,Qualité seule,0.0,0.0,0.0,0.0
+0,254,3,Contenu seul,0.0,0.0,0.0,0.0
+0,254,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,254,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,254,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,254,5,Aléatoire,0.0,0.0,0.0,0.0
+0,254,5,Popularité,0.0,0.0,0.0,0.0
+0,254,5,Qualité seule,0.0,0.0,0.0,0.0
+0,254,5,Contenu seul,0.1,0.5,1.0,0.17723928678404774
+0,254,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,254,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,254,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,254,10,Aléatoire,0.0,0.0,0.0,0.0
+0,254,10,Popularité,0.0,0.0,0.0,0.0
+0,254,10,Qualité seule,0.0,0.0,0.0,0.0
+0,254,10,Contenu seul,0.0,0.0,0.0,0.0
+0,254,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,254,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,254,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,254,25,Aléatoire,0.1,0.5,1.0,0.17723928678404774
+0,254,25,Popularité,0.0,0.0,0.0,0.0
+0,254,25,Qualité seule,0.0,0.0,0.0,0.0
+0,254,25,Contenu seul,0.0,0.0,0.0,0.0
+0,254,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,254,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,254,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,269,0,Aléatoire,0.0,0.0,0.0,0.0
+0,269,0,Popularité,0.0,0.0,0.0,0.0
+0,269,0,Qualité seule,0.0,0.0,0.0,0.0
+0,269,0,Contenu seul,0.0,0.0,0.0,0.0
+0,269,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,269,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,269,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,269,1,Aléatoire,0.0,0.0,0.0,0.0
+0,269,1,Popularité,0.0,0.0,0.0,0.0
+0,269,1,Qualité seule,0.0,0.0,0.0,0.0
+0,269,1,Contenu seul,0.0,0.0,0.0,0.0
+0,269,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,269,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,269,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,269,3,Aléatoire,0.0,0.0,0.0,0.0
+0,269,3,Popularité,0.0,0.0,0.0,0.0
+0,269,3,Qualité seule,0.0,0.0,0.0,0.0
+0,269,3,Contenu seul,0.0,0.0,0.0,0.0
+0,269,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,269,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,269,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,269,5,Aléatoire,0.0,0.0,0.0,0.0
+0,269,5,Popularité,0.0,0.0,0.0,0.0
+0,269,5,Qualité seule,0.0,0.0,0.0,0.0
+0,269,5,Contenu seul,0.0,0.0,0.0,0.0
+0,269,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,269,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,269,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,269,10,Aléatoire,0.0,0.0,0.0,0.0
+0,269,10,Popularité,0.0,0.0,0.0,0.0
+0,269,10,Qualité seule,0.0,0.0,0.0,0.0
+0,269,10,Contenu seul,0.0,0.0,0.0,0.0
+0,269,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,269,10,Hybride sans similarité,0.1,1.0,1.0,0.5
+0,269,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,269,25,Aléatoire,0.0,0.0,0.0,0.0
+0,269,25,Popularité,0.0,0.0,0.0,0.0
+0,269,25,Qualité seule,0.0,0.0,0.0,0.0
+0,269,25,Contenu seul,0.0,0.0,0.0,0.0
+0,269,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,269,25,Hybride sans similarité,0.1,1.0,1.0,0.38685280723454163
+0,269,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,285,0,Aléatoire,0.1,0.3333333333333333,1.0,0.14126697285982898
+0,285,0,Popularité,0.0,0.0,0.0,0.0
+0,285,0,Qualité seule,0.2,0.6666666666666666,1.0,0.38268031849431083
+0,285,0,Contenu seul,0.0,0.0,0.0,0.0
+0,285,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,285,0,Hybride sans similarité,0.1,0.3333333333333333,1.0,0.23463936301137822
+0,285,0,Hybride (complet),0.1,0.3333333333333333,1.0,0.23463936301137822
+0,285,1,Aléatoire,0.0,0.0,0.0,0.0
+0,285,1,Popularité,0.0,0.0,0.0,0.0
+0,285,1,Qualité seule,0.2,0.6666666666666666,1.0,0.38268031849431083
+0,285,1,Contenu seul,0.1,0.3333333333333333,1.0,0.18154179253735267
+0,285,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,285,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,285,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,285,3,Aléatoire,0.0,0.0,0.0,0.0
+0,285,3,Popularité,0.0,0.0,0.0,0.0
+0,285,3,Qualité seule,0.2,0.6666666666666666,1.0,0.38268031849431083
+0,285,3,Contenu seul,0.0,0.0,0.0,0.0
+0,285,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,285,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,285,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,285,5,Aléatoire,0.0,0.0,0.0,0.0
+0,285,5,Popularité,0.0,0.0,0.0,0.0
+0,285,5,Qualité seule,0.2,0.6666666666666666,1.0,0.38268031849431083
+0,285,5,Contenu seul,0.0,0.0,0.0,0.0
+0,285,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,285,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,285,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,285,10,Aléatoire,0.0,0.0,0.0,0.0
+0,285,10,Popularité,0.0,0.0,0.0,0.0
+0,285,10,Qualité seule,0.2,0.6666666666666666,1.0,0.38268031849431083
+0,285,10,Contenu seul,0.0,0.0,0.0,0.0
+0,285,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,285,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,285,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,285,25,Aléatoire,0.0,0.0,0.0,0.0
+0,285,25,Popularité,0.0,0.0,0.0,0.0
+0,285,25,Qualité seule,0.2,0.6666666666666666,1.0,0.38268031849431083
+0,285,25,Contenu seul,0.0,0.0,0.0,0.0
+0,285,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,285,25,Hybride sans similarité,0.1,0.3333333333333333,1.0,0.15642624200758548
+0,285,25,Hybride (complet),0.1,0.3333333333333333,1.0,0.1480409554829326
+0,288,0,Aléatoire,0.0,0.0,0.0,0.0
+0,288,0,Popularité,0.0,0.0,0.0,0.0
+0,288,0,Qualité seule,0.0,0.0,0.0,0.0
+0,288,0,Contenu seul,0.0,0.0,0.0,0.0
+0,288,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,288,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,288,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,288,1,Aléatoire,0.0,0.0,0.0,0.0
+0,288,1,Popularité,0.0,0.0,0.0,0.0
+0,288,1,Qualité seule,0.0,0.0,0.0,0.0
+0,288,1,Contenu seul,0.0,0.0,0.0,0.0
+0,288,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,288,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,288,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,288,3,Aléatoire,0.0,0.0,0.0,0.0
+0,288,3,Popularité,0.0,0.0,0.0,0.0
+0,288,3,Qualité seule,0.0,0.0,0.0,0.0
+0,288,3,Contenu seul,0.0,0.0,0.0,0.0
+0,288,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,288,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,288,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,288,5,Aléatoire,0.0,0.0,0.0,0.0
+0,288,5,Popularité,0.0,0.0,0.0,0.0
+0,288,5,Qualité seule,0.0,0.0,0.0,0.0
+0,288,5,Contenu seul,0.0,0.0,0.0,0.0
+0,288,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,288,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,288,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,288,10,Aléatoire,0.0,0.0,0.0,0.0
+0,288,10,Popularité,0.0,0.0,0.0,0.0
+0,288,10,Qualité seule,0.0,0.0,0.0,0.0
+0,288,10,Contenu seul,0.0,0.0,0.0,0.0
+0,288,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,288,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,288,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,288,25,Aléatoire,0.0,0.0,0.0,0.0
+0,288,25,Popularité,0.0,0.0,0.0,0.0
+0,288,25,Qualité seule,0.0,0.0,0.0,0.0
+0,288,25,Contenu seul,0.0,0.0,0.0,0.0
+0,288,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,288,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,288,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,294,0,Aléatoire,0.0,0.0,0.0,0.0
+0,294,0,Popularité,0.1,0.2,1.0,0.13120507751234178
+0,294,0,Qualité seule,0.0,0.0,0.0,0.0
+0,294,0,Contenu seul,0.0,0.0,0.0,0.0
+0,294,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,294,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,294,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,294,1,Aléatoire,0.0,0.0,0.0,0.0
+0,294,1,Popularité,0.1,0.2,1.0,0.11305340175787204
+0,294,1,Qualité seule,0.0,0.0,0.0,0.0
+0,294,1,Contenu seul,0.1,0.2,1.0,0.14606834984270645
+0,294,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,294,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,294,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,294,3,Aléatoire,0.0,0.0,0.0,0.0
+0,294,3,Popularité,0.1,0.2,1.0,0.1208113026994942
+0,294,3,Qualité seule,0.0,0.0,0.0,0.0
+0,294,3,Contenu seul,0.0,0.0,0.0,0.0
+0,294,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,294,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,294,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,294,5,Aléatoire,0.0,0.0,0.0,0.0
+0,294,5,Popularité,0.1,0.2,1.0,0.11305340175787204
+0,294,5,Qualité seule,0.0,0.0,0.0,0.0
+0,294,5,Contenu seul,0.1,0.2,1.0,0.10699313236726378
+0,294,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,294,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,294,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,294,10,Aléatoire,0.0,0.0,0.0,0.0
+0,294,10,Popularité,0.1,0.2,1.0,0.11305340175787204
+0,294,10,Qualité seule,0.0,0.0,0.0,0.0
+0,294,10,Contenu seul,0.0,0.0,0.0,0.0
+0,294,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,294,10,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,294,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,294,25,Aléatoire,0.1,0.2,1.0,0.14606834984270645
+0,294,25,Popularité,0.1,0.2,1.0,0.1208113026994942
+0,294,25,Qualité seule,0.0,0.0,0.0,0.0
+0,294,25,Contenu seul,0.0,0.0,0.0,0.0
+0,294,25,Collaboratif seul,0.1,0.2,1.0,0.10209739512291163
+0,294,25,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,294,25,Hybride (complet),0.0,0.0,0.0,0.0
+0,297,0,Aléatoire,0.0,0.0,0.0,0.0
+0,297,0,Popularité,0.0,0.0,0.0,0.0
+0,297,0,Qualité seule,0.1,1.0,1.0,0.3010299956639812
+0,297,0,Contenu seul,0.0,0.0,0.0,0.0
+0,297,0,Collaboratif seul,0.0,0.0,0.0,0.0
+0,297,0,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,297,0,Hybride (complet),0.0,0.0,0.0,0.0
+0,297,1,Aléatoire,0.0,0.0,0.0,0.0
+0,297,1,Popularité,0.0,0.0,0.0,0.0
+0,297,1,Qualité seule,0.1,1.0,1.0,0.3010299956639812
+0,297,1,Contenu seul,0.0,0.0,0.0,0.0
+0,297,1,Collaboratif seul,0.0,0.0,0.0,0.0
+0,297,1,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,297,1,Hybride (complet),0.0,0.0,0.0,0.0
+0,297,3,Aléatoire,0.0,0.0,0.0,0.0
+0,297,3,Popularité,0.0,0.0,0.0,0.0
+0,297,3,Qualité seule,0.1,1.0,1.0,0.3010299956639812
+0,297,3,Contenu seul,0.0,0.0,0.0,0.0
+0,297,3,Collaboratif seul,0.0,0.0,0.0,0.0
+0,297,3,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,297,3,Hybride (complet),0.0,0.0,0.0,0.0
+0,297,5,Aléatoire,0.0,0.0,0.0,0.0
+0,297,5,Popularité,0.0,0.0,0.0,0.0
+0,297,5,Qualité seule,0.1,1.0,1.0,0.3010299956639812
+0,297,5,Contenu seul,0.0,0.0,0.0,0.0
+0,297,5,Collaboratif seul,0.0,0.0,0.0,0.0
+0,297,5,Hybride sans similarité,0.0,0.0,0.0,0.0
+0,297,5,Hybride (complet),0.0,0.0,0.0,0.0
+0,297,10,Aléatoire,0.0,0.0,0.0,0.0
+0,297,10,Popularité,0.0,0.0,0.0,0.0
+0,297,10,Qualité seule,0.1,1.0,1.0,0.3010299956639812
+0,297,10,Contenu seul,0.0,0.0,0.0,0.0
+0,297,10,Collaboratif seul,0.0,0.0,0.0,0.0
+0,297,10,Hybride sans similarité,0.1,1.0,1.0,0.2890648263178879
+0,297,10,Hybride (complet),0.0,0.0,0.0,0.0
+0,297,25,Aléatoire,0.0,0.0,0.0,0.0
+0,297,25,Popularité,0.0,0.0,0.0,0.0
+0,297,25,Qualité seule,0.1,1.0,1.0,0.3010299956639812
+0,297,25,Contenu seul,0.1,1.0,1.0,0.3333333333333333
+0,297,25,Collaboratif seul,0.0,0.0,0.0,0.0
+0,297,25,Hybride sans similarité,0.1,1.0,1.0,0.2890648263178879
+0,297,25,Hybride (complet),0.0,0.0,0.0,0.0

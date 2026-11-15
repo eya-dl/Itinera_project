@@ -1,5 +1,5 @@
 import { DecimalPipe } from '@angular/common';
-import { Component, input } from '@angular/core';
+import { Component, input, output } from '@angular/core';
 import { Place } from './models';
 
 @Component({
@@ -25,21 +25,28 @@ import { Place } from './models';
         @for (r of place().reasons; track r) {
           <li>{{ r }}</li>
         }
-      </ul>
+        </ul>
+      <button type="button" class="like" [class.on]="liked()" [attr.aria-pressed]="liked()" (click)="toggleLike.emit(place())">
+        {{ liked() ? '✓ Plus comme ça' : '+ Plus comme ça' }}
+      </button>
     </article>
   `,
   styles: `
-    .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 1rem; }
+    .card { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 1.1rem; box-shadow: var(--shadow); border-top: 4px solid var(--accent); height: 100%; }
     header { display: flex; justify-content: space-between; gap: .5rem; align-items: start; }
-    h3 { margin: 0; font-size: 1.05rem; }
+    h3 { margin: 0; font-size: 1.15rem; }
     .chip { background: var(--accent-soft); color: var(--accent); border-radius: 999px; padding: .1rem .6rem; font-size: .78rem; white-space: nowrap; }
     .meta { color: var(--muted); font-size: .88rem; margin: .4rem 0; }
     .bar { height: 6px; background: var(--line); border-radius: 3px; overflow: hidden; }
     .bar span { display: block; height: 100%; background: var(--accent); }
     .score { font-size: .8rem; color: var(--muted); margin: .25rem 0 .5rem; }
-    ul { margin: 0; padding-left: 1.1rem; font-size: .9rem; }
+    ul { margin: 0 0 .8rem; padding-left: 1.1rem; font-size: .9rem; }
+    .like { border: 1.5px solid var(--accent); background: #fff; color: var(--accent); border-radius: 999px; padding: .35rem .9rem; font: inherit; font-size: .85rem; font-weight: 600; cursor: pointer; }
+    .like.on { background: var(--accent); color: #fff; }
   `,
 })
 export class PlaceCard {
   readonly place = input.required<Place>();
+  readonly liked = input(false);
+  readonly toggleLike = output<Place>();
 }

@@ -34,7 +34,10 @@ class Recommender:
         user_q = (bayes.reindex(self.places.index).fillna(gm) - 1) / 4
         r = self.places["rating"]
         rating_q = (r - r.min()) / (r.max() - r.min())
-        self.places["quality"] = 0.7 * rating_q + 0.3 * user_q
+        share = config.QUALITY_RATING_SHARE
+        self.places["quality"] = share * rating_q + (1 - share) * user_q
+        # lieux sans aucune note d'entraînement : leur similarité collaborative est inconnue, pas mauvaise
+        self.has_ratings = self.places.index.isin(st.index)
 
         # Similarité item-item (cosinus sur notes centrées par utilisateur).
         m = ratings_train.pivot(index="user_id", columns="place_id", values="user_rating")
@@ -86,11 +89,23 @@ class Recommender:
     def _similarity_scores(self, df: pd.DataFrame, liked_ids: list) -> pd.Series:
         liked_ids = [i for i in liked_ids if i in self.pos]
         liked = self.places.loc[liked_ids]
-        cols = [self.pos[i] for i in liked_ids]
-        cf = pd.Series([self.sim[self.pos[pid], cols].mean() for pid in df.index], index=df.index)
-        cf_rank = cf.rank(pct=True)  # robuste à l'échelle des similarités
-        content = pd.Series([self._content_similarity(r, liked) for _, r in df.iterrows()], index=df.index)
-        return 0.5 * cf_rank + 0.5 * content
+        mix = config.SIMILARITY_MIX
+        score = pd.Series(0.0, index=df.index)
+
+        if mix.get("content", 0) > 0:
+            content = pd.Series([self._content_similarity(r, liked) for _, r in df.iterrows()], index=df.index)
+            score += mix["content"] * content
+
+        if mix.get("cf", 0) > 0:
+            cols = [self.pos[i] for i in liked_ids]
+            cf = pd.Series([self.sim[self.pos[pid], cols].mean() for pid in df.index], index=df.index)
+            rated = self.has_ratings[[self.pos[pid] for pid in df.index]]
+            cf_rank = pd.Series(0.5, index=df.index)  # score neutre pour un lieu sans note
+            if rated.sum() > 1:
+                cf_rank.loc[rated] = cf[rated].rank(pct=True)  # robuste à l'échelle des similarités
+            score += mix["cf"] * cf_rank
+
+        return score / sum(mix.values())
 
     # ------------------------------------------------------------------ recommandation
     def candidates(self, p: Profile) -> pd.DataFrame:

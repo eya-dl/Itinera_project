@@ -16,10 +16,16 @@ CATEGORY_LABELS_FR = {
 }
 
 # Poids des composantes du score (renormalisés sur les composantes actives).
-SCORE_WEIGHTS = {"interests": 0.45, "quality": 0.25, "budget": 0.15, "similarity": 0.15}
+SCORE_WEIGHTS = {"interests": 0.40, "quality": 0.20, "budget": 0.15, "similarity": 0.25}
 
 # Pénalité de diversité par lieu déjà sélectionné de la même catégorie.
 DIVERSITY_PENALTY = 0.04
+# Part de la note du lieu (catalogue) dans `quality` ; le reste vient des notes utilisateurs.
+QUALITY_RATING_SHARE = 0.7
+
+# Mélange de la composante « similarité avec les lieux aimés » (somme = 1).
+# content = catégorie / ville / prix ; cf = filtrage collaboratif sur les notes utilisateurs.
+SIMILARITY_MIX = {"content": 0.75, "cf": 0.15}
 
 # Hypothèses d'itinéraire.
 TRAVEL_SPEED_KMH = 25

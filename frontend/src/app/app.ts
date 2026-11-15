@@ -23,6 +23,8 @@ export class App {
   protected readonly places = signal<Place[]>([]);
   protected readonly itinerary = signal<Itinerary | null>(null);
 
+  protected readonly likedPlaces = signal<Place[]>([]);
+
   protected readonly form = this.fb.nonNullable.group({
     city: [''],
     budget_eur: [null as number | null, [Validators.min(0.01)]],
@@ -44,6 +46,43 @@ export class App {
       next: (m) => this.meta.set(m),
       error: (e) => this.error.set(this.message(e)),
     });
+  }
+
+  protected go(id: string, event?: Event): void {
+    event?.preventDefault();
+    document.getElementById(id)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  protected preset(weights: Record<string, number>): void {
+    const w = (k: string) => weights[k] ?? 0;
+    this.form.controls.interests.setValue({
+      sea: w('sea'),
+      culture: w('culture'),
+      nature: w('nature'),
+      amusement: w('amusement'),
+      shopping: w('shopping'),
+      religious: w('religious'),
+    });
+    this.go('planner');
+  }
+    protected isLiked(id: number): boolean {
+    return this.likedPlaces().some((p) => p.place_id === id);
+  }
+
+  protected toggleLike(place: Place): void {
+    this.likedPlaces.update((list) =>
+      list.some((p) => p.place_id === place.place_id) ? list.filter((p) => p.place_id !== place.place_id) : [...list, place],
+    );
+  }
+
+  protected clearLikes(): void {
+    this.likedPlaces.set([]);
+  }
+
+  /** Relance la dernière demande (lieux ou itinéraire) en tenant compte des lieux aimés. */
+  protected refine(): void {
+    if (this.mode() === 'itinerary') this.buildItinerary();
+    else this.recommend();
   }
 
   protected recommend(): void {
@@ -86,6 +125,7 @@ export class App {
       days: v.days,
       travelers: v.travelers,
       free_only: v.free_only,
+      ...(this.likedPlaces().length ? { liked_place_ids: this.likedPlaces().map((p) => p.place_id) } : {}),
       ...(v.budget_eur ? { budget_eur: v.budget_eur } : {}),
       ...(v.city ? { city: v.city } : {}),
     };

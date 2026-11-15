@@ -45,10 +45,10 @@ import { Itinerary } from './models';
     }
   `,
   styles: `
-    .totals { background: var(--accent-soft); border-radius: 10px; padding: .75rem 1rem; margin-bottom: 1rem; }
+    .totals { background: var(--accent-soft); border-radius: 14px; padding: .9rem 1.1rem; margin-bottom: 1rem; }
     .totals.over { background: #fde8e8; }
     .warn { background: #fff4d6; border-radius: 8px; padding: .6rem .9rem; }
-    .day { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 1rem; margin-bottom: 1rem; }
+    .day { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 1.2rem; margin-bottom: 1rem; box-shadow: var(--shadow); border-left: 4px solid var(--accent); }
     h3 { margin: 0; }
     .summary { color: var(--muted); font-size: .9rem; margin: .2rem 0 .8rem; }
     ol { list-style: none; margin: 0; padding: 0; }

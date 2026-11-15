@@ -1,0 +1,1331 @@
+seed,user,protocol,method,cold_share@10,P,R,HR,NDCG
+0,2,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,2,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,2,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,2,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,2,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,2,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,2,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,2,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,2,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,2,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,2,lieux froids seuls,Contenu seul,1.0,0.1,1.0,1.0,0.3010299956639812
+0,2,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,2,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.43067655807339306
+0,2,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.38685280723454163
+0,9,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,9,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,9,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,9,catalogue complet,Contenu seul,0.3,0.0,0.0,0.0,0.0
+0,9,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,9,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,9,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,9,lieux froids seuls,Aléatoire,1.0,0.1,0.5,1.0,0.38685280723454163
+0,9,lieux froids seuls,Popularité,1.0,0.1,0.5,1.0,0.17723928678404774
+0,9,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,9,lieux froids seuls,Contenu seul,1.0,0.2,1.0,1.0,0.45560514958746035
+0,9,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,9,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,9,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,12,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,12,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,12,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,12,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,12,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,12,catalogue complet,Hybride sans similarité,0.2,0.0,0.0,0.0,0.0
+0,12,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,12,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,12,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,12,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,12,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,12,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,12,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,12,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,1.0
+0,13,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,13,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,13,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,13,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,13,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,13,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,13,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,13,lieux froids seuls,Aléatoire,1.0,0.1,1.0,1.0,0.3562071871080222
+0,13,lieux froids seuls,Popularité,1.0,0.1,1.0,1.0,0.31546487678572877
+0,13,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,13,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,13,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,13,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.5
+0,13,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,18,catalogue complet,Aléatoire,0.3,0.0,0.0,0.0,0.0
+0,18,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,18,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,18,catalogue complet,Contenu seul,0.3,0.1,0.3333333333333333,1.0,0.1480409554829326
+0,18,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,18,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,18,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,18,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,18,lieux froids seuls,Popularité,1.0,0.2,0.6666666666666666,1.0,0.2920782154400332
+0,18,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,18,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,18,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,18,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,18,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,19,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,19,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,19,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,19,catalogue complet,Contenu seul,0.5,0.0,0.0,0.0,0.0
+0,19,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,19,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,19,catalogue complet,Hybride (complet),0.1,0.0,0.0,0.0,0.0
+0,19,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,19,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,19,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,19,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,19,lieux froids seuls,Collaboratif seul,1.0,0.1,1.0,1.0,0.5
+0,19,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,19,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.2890648263178879
+0,22,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,22,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,22,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,22,catalogue complet,Contenu seul,0.2,0.0,0.0,0.0,0.0
+0,22,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,22,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,22,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,22,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,22,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,22,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,22,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,22,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,22,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,22,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,23,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,23,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,23,catalogue complet,Qualité seule,0.0,0.0,0.0,0.0,0.0
+0,23,catalogue complet,Contenu seul,0.4,0.0,0.0,0.0,0.0
+0,23,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,23,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,23,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,23,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,23,lieux froids seuls,Popularité,1.0,0.1,1.0,1.0,0.43067655807339306
+0,23,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,23,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,23,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,23,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,23,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,24,catalogue complet,Aléatoire,0.2,0.0,0.0,0.0,0.0
+0,24,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,24,catalogue complet,Qualité seule,0.1,0.1,1.0,1.0,0.3562071871080222
+0,24,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,24,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,24,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,24,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,24,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,24,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,24,lieux froids seuls,Qualité seule,1.0,0.1,1.0,1.0,1.0
+0,24,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,24,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,24,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,24,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,26,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,26,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,26,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,26,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,26,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,26,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,26,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,26,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,26,lieux froids seuls,Popularité,1.0,0.1,1.0,1.0,0.3010299956639812
+0,26,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,26,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,26,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,26,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,26,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,29,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,29,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,29,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,29,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,29,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,29,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,29,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,29,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,29,lieux froids seuls,Popularité,1.0,0.1,0.5,1.0,0.17723928678404774
+0,29,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,29,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,29,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,29,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,29,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,30,catalogue complet,Aléatoire,0.2,0.0,0.0,0.0,0.0
+0,30,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,30,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,30,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,30,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,30,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,30,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,30,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,30,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,30,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,30,lieux froids seuls,Contenu seul,1.0,0.1,1.0,1.0,0.5
+0,30,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,30,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.6309297535714575
+0,30,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,33,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,33,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,33,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,33,catalogue complet,Contenu seul,0.3,0.0,0.0,0.0,0.0
+0,33,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,33,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,33,catalogue complet,Hybride (complet),0.1,0.0,0.0,0.0,0.0
+0,33,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,33,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,33,lieux froids seuls,Qualité seule,1.0,0.1,1.0,1.0,0.3010299956639812
+0,33,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,33,lieux froids seuls,Collaboratif seul,1.0,0.1,1.0,1.0,0.31546487678572877
+0,33,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,33,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,40,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,40,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,40,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,40,catalogue complet,Contenu seul,0.3,0.0,0.0,0.0,0.0
+0,40,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,40,catalogue complet,Hybride sans similarité,0.2,0.0,0.0,0.0,0.0
+0,40,catalogue complet,Hybride (complet),0.1,0.0,0.0,0.0,0.0
+0,40,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,40,lieux froids seuls,Popularité,1.0,0.1,1.0,1.0,0.31546487678572877
+0,40,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,40,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,40,lieux froids seuls,Collaboratif seul,1.0,0.1,1.0,1.0,1.0
+0,40,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,40,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,41,catalogue complet,Aléatoire,0.0,0.0,0.0,0.0,0.0
+0,41,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,41,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,41,catalogue complet,Contenu seul,0.2,0.0,0.0,0.0,0.0
+0,41,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,41,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,41,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,41,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,41,lieux froids seuls,Popularité,1.0,0.1,1.0,1.0,1.0
+0,41,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,41,lieux froids seuls,Contenu seul,1.0,0.1,1.0,1.0,0.2890648263178879
+0,41,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,41,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,41,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,44,catalogue complet,Aléatoire,0.0,0.0,0.0,0.0,0.0
+0,44,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,44,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,44,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,44,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,44,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,44,catalogue complet,Hybride (complet),0.1,0.0,0.0,0.0,0.0
+0,44,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,44,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,44,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,44,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,44,lieux froids seuls,Collaboratif seul,1.0,0.1,1.0,1.0,0.2890648263178879
+0,44,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.31546487678572877
+0,44,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.3333333333333333
+0,45,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,45,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,45,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,45,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,45,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,45,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,45,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,45,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,45,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,45,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,45,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,45,lieux froids seuls,Collaboratif seul,1.0,0.1,1.0,1.0,0.5
+0,45,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.2890648263178879
+0,45,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,47,catalogue complet,Aléatoire,0.3,0.0,0.0,0.0,0.0
+0,47,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,47,catalogue complet,Qualité seule,0.1,0.1,1.0,1.0,0.3562071871080222
+0,47,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,47,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,47,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,47,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,47,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,47,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,47,lieux froids seuls,Qualité seule,1.0,0.1,1.0,1.0,1.0
+0,47,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,47,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,47,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.31546487678572877
+0,47,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,51,catalogue complet,Aléatoire,0.2,0.0,0.0,0.0,0.0
+0,51,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,51,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,51,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,51,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,51,catalogue complet,Hybride sans similarité,0.2,0.0,0.0,0.0,0.0
+0,51,catalogue complet,Hybride (complet),0.2,0.0,0.0,0.0,0.0
+0,51,lieux froids seuls,Aléatoire,1.0,0.1,1.0,1.0,0.31546487678572877
+0,51,lieux froids seuls,Popularité,1.0,0.1,1.0,1.0,0.5
+0,51,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,51,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,51,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,51,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,51,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,53,catalogue complet,Aléatoire,0.2,0.0,0.0,0.0,0.0
+0,53,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,53,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,53,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,53,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,53,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,53,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,53,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,53,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,53,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,53,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,53,lieux froids seuls,Collaboratif seul,1.0,0.1,1.0,1.0,0.3010299956639812
+0,53,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,53,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,58,catalogue complet,Aléatoire,0.4,0.0,0.0,0.0,0.0
+0,58,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,58,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,58,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,58,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,58,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,58,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,58,lieux froids seuls,Aléatoire,1.0,0.1,1.0,1.0,0.6309297535714575
+0,58,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,58,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,58,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,58,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,58,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,58,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,59,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,59,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,59,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,59,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,59,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,59,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,59,catalogue complet,Hybride (complet),0.1,0.0,0.0,0.0,0.0
+0,59,lieux froids seuls,Aléatoire,1.0,0.1,1.0,1.0,0.6309297535714575
+0,59,lieux froids seuls,Popularité,1.0,0.1,1.0,1.0,0.5
+0,59,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,59,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,59,lieux froids seuls,Collaboratif seul,1.0,0.1,1.0,1.0,0.6309297535714575
+0,59,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,59,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,65,catalogue complet,Aléatoire,0.2,0.0,0.0,0.0,0.0
+0,65,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,65,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,65,catalogue complet,Contenu seul,0.2,0.0,0.0,0.0,0.0
+0,65,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,65,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,65,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,65,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,65,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,65,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,65,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,65,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,65,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,65,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,68,catalogue complet,Aléatoire,0.2,0.0,0.0,0.0,0.0
+0,68,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,68,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,68,catalogue complet,Contenu seul,0.3,0.0,0.0,0.0,0.0
+0,68,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,68,catalogue complet,Hybride sans similarité,0.2,0.0,0.0,0.0,0.0
+0,68,catalogue complet,Hybride (complet),0.1,0.0,0.0,0.0,0.0
+0,68,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,68,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,68,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,68,lieux froids seuls,Contenu seul,1.0,0.1,1.0,1.0,0.6309297535714575
+0,68,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,68,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,68,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,76,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,76,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,76,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,76,catalogue complet,Contenu seul,0.2,0.0,0.0,0.0,0.0
+0,76,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,76,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,76,catalogue complet,Hybride (complet),0.1,0.0,0.0,0.0,0.0
+0,76,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,76,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,76,lieux froids seuls,Qualité seule,1.0,0.1,1.0,1.0,0.5
+0,76,lieux froids seuls,Contenu seul,1.0,0.1,1.0,1.0,0.3010299956639812
+0,76,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,76,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.5
+0,76,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,81,catalogue complet,Aléatoire,0.0,0.0,0.0,0.0,0.0
+0,81,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,81,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,81,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,81,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,81,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,81,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,81,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,81,lieux froids seuls,Popularité,1.0,0.1,1.0,1.0,0.31546487678572877
+0,81,lieux froids seuls,Qualité seule,1.0,0.1,1.0,1.0,0.43067655807339306
+0,81,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,81,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,81,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,81,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,82,catalogue complet,Aléatoire,0.2,0.0,0.0,0.0,0.0
+0,82,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,82,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,82,catalogue complet,Contenu seul,0.3,0.0,0.0,0.0,0.0
+0,82,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,82,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,82,catalogue complet,Hybride (complet),0.1,0.0,0.0,0.0,0.0
+0,82,lieux froids seuls,Aléatoire,1.0,0.1,1.0,1.0,0.6309297535714575
+0,82,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,82,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,82,lieux froids seuls,Contenu seul,1.0,0.1,1.0,1.0,0.3333333333333333
+0,82,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,82,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,82,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,83,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,83,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,83,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,83,catalogue complet,Contenu seul,0.3,0.0,0.0,0.0,0.0
+0,83,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,83,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,83,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,83,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,83,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,83,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,83,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,83,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,83,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,83,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,89,catalogue complet,Aléatoire,0.0,0.0,0.0,0.0,0.0
+0,89,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,89,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,89,catalogue complet,Contenu seul,0.2,0.0,0.0,0.0,0.0
+0,89,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,89,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,89,catalogue complet,Hybride (complet),0.1,0.0,0.0,0.0,0.0
+0,89,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,89,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,89,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,89,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,89,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,89,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,89,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.3562071871080222
+0,91,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,91,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,91,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,91,catalogue complet,Contenu seul,0.4,0.0,0.0,0.0,0.0
+0,91,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,91,catalogue complet,Hybride sans similarité,0.2,0.0,0.0,0.0,0.0
+0,91,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,91,lieux froids seuls,Aléatoire,1.0,0.1,1.0,1.0,0.31546487678572877
+0,91,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,91,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,91,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,91,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,91,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,91,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,93,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,93,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,93,catalogue complet,Qualité seule,0.0,0.0,0.0,0.0,0.0
+0,93,catalogue complet,Contenu seul,0.2,0.0,0.0,0.0,0.0
+0,93,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,93,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,93,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,93,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,93,lieux froids seuls,Popularité,1.0,0.1,1.0,1.0,0.43067655807339306
+0,93,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,93,lieux froids seuls,Contenu seul,1.0,0.1,1.0,1.0,0.43067655807339306
+0,93,lieux froids seuls,Collaboratif seul,1.0,0.1,1.0,1.0,1.0
+0,93,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,93,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,94,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,94,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,94,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,94,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,94,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,94,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,94,catalogue complet,Hybride (complet),0.1,0.0,0.0,0.0,0.0
+0,94,lieux froids seuls,Aléatoire,1.0,0.1,1.0,1.0,0.43067655807339306
+0,94,lieux froids seuls,Popularité,1.0,0.1,1.0,1.0,0.3010299956639812
+0,94,lieux froids seuls,Qualité seule,1.0,0.1,1.0,1.0,0.2890648263178879
+0,94,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,94,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,94,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.3333333333333333
+0,94,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.6309297535714575
+0,98,catalogue complet,Aléatoire,0.3,0.0,0.0,0.0,0.0
+0,98,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,98,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,98,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,98,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,98,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,98,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,98,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,98,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,98,lieux froids seuls,Qualité seule,1.0,0.1,1.0,1.0,0.5
+0,98,lieux froids seuls,Contenu seul,1.0,0.1,1.0,1.0,1.0
+0,98,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,98,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.38685280723454163
+0,98,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,1.0
+0,103,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,103,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,103,catalogue complet,Qualité seule,0.0,0.0,0.0,0.0,0.0
+0,103,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,103,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,103,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,103,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,103,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,103,lieux froids seuls,Popularité,1.0,0.1,1.0,1.0,0.3562071871080222
+0,103,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,103,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,103,lieux froids seuls,Collaboratif seul,1.0,0.1,1.0,1.0,0.6309297535714575
+0,103,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.31546487678572877
+0,103,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.6309297535714575
+0,105,catalogue complet,Aléatoire,0.2,0.0,0.0,0.0,0.0
+0,105,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,105,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,105,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,105,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,105,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,105,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,105,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,105,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,105,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,105,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,105,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,105,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,105,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,106,catalogue complet,Aléatoire,0.2,0.0,0.0,0.0,0.0
+0,106,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,106,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,106,catalogue complet,Contenu seul,0.4,0.0,0.0,0.0,0.0
+0,106,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,106,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,106,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,106,lieux froids seuls,Aléatoire,1.0,0.1,0.5,1.0,0.19342640361727081
+0,106,lieux froids seuls,Popularité,1.0,0.1,0.5,1.0,0.20438239758848611
+0,106,lieux froids seuls,Qualité seule,1.0,0.1,0.5,1.0,0.19342640361727081
+0,106,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,106,lieux froids seuls,Collaboratif seul,1.0,0.1,0.5,1.0,0.23719771276929622
+0,106,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,106,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,107,catalogue complet,Aléatoire,0.4,0.1,1.0,1.0,1.0
+0,107,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,107,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,107,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,107,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,107,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,107,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,107,lieux froids seuls,Aléatoire,1.0,0.1,1.0,1.0,0.2890648263178879
+0,107,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,107,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,107,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,107,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,107,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.2890648263178879
+0,107,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.2890648263178879
+0,113,catalogue complet,Aléatoire,0.0,0.0,0.0,0.0,0.0
+0,113,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,113,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,113,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,113,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,113,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,113,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,113,lieux froids seuls,Aléatoire,1.0,0.1,1.0,1.0,0.43067655807339306
+0,113,lieux froids seuls,Popularité,1.0,0.1,1.0,1.0,0.3562071871080222
+0,113,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,113,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,113,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,113,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,113,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,117,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,117,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,117,catalogue complet,Qualité seule,0.0,0.0,0.0,0.0,0.0
+0,117,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,117,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,117,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,117,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,117,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,117,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,117,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,117,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,117,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,117,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,117,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.3010299956639812
+0,118,catalogue complet,Aléatoire,0.4,0.0,0.0,0.0,0.0
+0,118,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,118,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,118,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,118,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,118,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,118,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,118,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,118,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,118,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,118,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,118,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,118,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,118,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,119,catalogue complet,Aléatoire,0.0,0.0,0.0,0.0,0.0
+0,119,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,119,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,119,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,119,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,119,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,119,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,119,lieux froids seuls,Aléatoire,1.0,0.1,1.0,1.0,0.3010299956639812
+0,119,lieux froids seuls,Popularité,1.0,0.1,1.0,1.0,0.3333333333333333
+0,119,lieux froids seuls,Qualité seule,1.0,0.1,1.0,1.0,0.6309297535714575
+0,119,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,119,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,119,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,119,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,121,catalogue complet,Aléatoire,0.3,0.0,0.0,0.0,0.0
+0,121,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,121,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,121,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,121,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,121,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,121,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,121,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,121,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,121,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,121,lieux froids seuls,Contenu seul,1.0,0.1,1.0,1.0,0.5
+0,121,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,121,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,121,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.5
+0,124,catalogue complet,Aléatoire,0.3,0.0,0.0,0.0,0.0
+0,124,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,124,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,124,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,124,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,124,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,124,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,124,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,124,lieux froids seuls,Popularité,1.0,0.1,1.0,1.0,0.43067655807339306
+0,124,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,124,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,124,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,124,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,124,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,125,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,125,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,125,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,125,catalogue complet,Contenu seul,0.2,0.0,0.0,0.0,0.0
+0,125,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,125,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,125,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,125,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,125,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,125,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,125,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,125,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,125,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,125,lieux froids seuls,Hybride (complet),1.0,0.1,0.5,1.0,0.20438239758848611
+0,128,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,128,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,128,catalogue complet,Qualité seule,0.0,0.0,0.0,0.0,0.0
+0,128,catalogue complet,Contenu seul,0.3,0.0,0.0,0.0,0.0
+0,128,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,128,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,128,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,128,lieux froids seuls,Aléatoire,1.0,0.1,1.0,1.0,0.3010299956639812
+0,128,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,128,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,128,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,128,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,128,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,128,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,129,catalogue complet,Aléatoire,0.3,0.0,0.0,0.0,0.0
+0,129,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,129,catalogue complet,Qualité seule,0.0,0.0,0.0,0.0,0.0
+0,129,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,129,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,129,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,129,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,129,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,129,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,129,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,129,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,129,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,129,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,129,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.3562071871080222
+0,137,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,137,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,137,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,137,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,137,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,137,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,137,catalogue complet,Hybride (complet),0.2,0.0,0.0,0.0,0.0
+0,137,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,137,lieux froids seuls,Popularité,1.0,0.1,1.0,1.0,0.43067655807339306
+0,137,lieux froids seuls,Qualité seule,1.0,0.1,1.0,1.0,0.38685280723454163
+0,137,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,137,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,137,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.38685280723454163
+0,137,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.31546487678572877
+0,142,catalogue complet,Aléatoire,0.2,0.0,0.0,0.0,0.0
+0,142,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,142,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,142,catalogue complet,Contenu seul,0.2,0.0,0.0,0.0,0.0
+0,142,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,142,catalogue complet,Hybride sans similarité,0.2,0.0,0.0,0.0,0.0
+0,142,catalogue complet,Hybride (complet),0.1,0.0,0.0,0.0,0.0
+0,142,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,142,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,142,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,142,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,142,lieux froids seuls,Collaboratif seul,1.0,0.1,1.0,1.0,0.31546487678572877
+0,142,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,142,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,143,catalogue complet,Aléatoire,0.2,0.0,0.0,0.0,0.0
+0,143,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,143,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,143,catalogue complet,Contenu seul,0.2,0.0,0.0,0.0,0.0
+0,143,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,143,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,143,catalogue complet,Hybride (complet),0.1,0.0,0.0,0.0,0.0
+0,143,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,143,lieux froids seuls,Popularité,1.0,0.1,1.0,1.0,0.43067655807339306
+0,143,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,143,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,143,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,143,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,143,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,146,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,146,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,146,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,146,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,146,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,146,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,146,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,146,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,146,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,146,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,146,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,146,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,146,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.6309297535714575
+0,146,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,148,catalogue complet,Aléatoire,0.3,0.0,0.0,0.0,0.0
+0,148,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,148,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,148,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,148,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,148,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,148,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,148,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,148,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,148,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,148,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,148,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,148,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.3562071871080222
+0,148,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,149,catalogue complet,Aléatoire,0.0,0.0,0.0,0.0,0.0
+0,149,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,149,catalogue complet,Qualité seule,0.0,0.0,0.0,0.0,0.0
+0,149,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,149,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,149,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,149,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,149,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,149,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,149,lieux froids seuls,Qualité seule,1.0,0.1,1.0,1.0,0.3562071871080222
+0,149,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,149,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,149,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.3562071871080222
+0,149,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.6309297535714575
+0,151,catalogue complet,Aléatoire,0.2,0.0,0.0,0.0,0.0
+0,151,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,151,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,151,catalogue complet,Contenu seul,0.3,0.0,0.0,0.0,0.0
+0,151,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,151,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,151,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,151,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,151,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,151,lieux froids seuls,Qualité seule,1.0,0.1,1.0,1.0,0.6309297535714575
+0,151,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,151,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,151,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,151,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,156,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,156,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,156,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,156,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,156,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,156,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,156,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,156,lieux froids seuls,Aléatoire,1.0,0.1,1.0,1.0,0.5
+0,156,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,156,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,156,lieux froids seuls,Contenu seul,1.0,0.1,1.0,1.0,0.38685280723454163
+0,156,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,156,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,156,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.3333333333333333
+0,157,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,157,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,157,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,157,catalogue complet,Contenu seul,0.3,0.0,0.0,0.0,0.0
+0,157,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,157,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,157,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,157,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,157,lieux froids seuls,Popularité,1.0,0.1,1.0,1.0,0.43067655807339306
+0,157,lieux froids seuls,Qualité seule,1.0,0.1,1.0,1.0,0.31546487678572877
+0,157,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,157,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,157,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,157,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,160,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,160,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,160,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,160,catalogue complet,Contenu seul,0.2,0.0,0.0,0.0,0.0
+0,160,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,160,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,160,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,160,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,160,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,160,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,160,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,160,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,160,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,160,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,161,catalogue complet,Aléatoire,0.0,0.0,0.0,0.0,0.0
+0,161,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,161,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,161,catalogue complet,Contenu seul,0.4,0.0,0.0,0.0,0.0
+0,161,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,161,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,161,catalogue complet,Hybride (complet),0.2,0.0,0.0,0.0,0.0
+0,161,lieux froids seuls,Aléatoire,1.0,0.1,1.0,1.0,0.2890648263178879
+0,161,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,161,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,161,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,161,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,161,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,161,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,165,catalogue complet,Aléatoire,0.2,0.0,0.0,0.0,0.0
+0,165,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,165,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,165,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,165,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,165,catalogue complet,Hybride sans similarité,0.2,0.0,0.0,0.0,0.0
+0,165,catalogue complet,Hybride (complet),0.1,0.0,0.0,0.0,0.0
+0,165,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,165,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,165,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,165,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,165,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,165,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,165,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,168,catalogue complet,Aléatoire,0.3,0.1,1.0,1.0,1.0
+0,168,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,168,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,168,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,168,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,168,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,168,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,168,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,168,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,168,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,168,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,168,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,168,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.43067655807339306
+0,168,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.6309297535714575
+0,172,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,172,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,172,catalogue complet,Qualité seule,0.0,0.0,0.0,0.0,0.0
+0,172,catalogue complet,Contenu seul,0.2,0.0,0.0,0.0,0.0
+0,172,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,172,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,172,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,172,lieux froids seuls,Aléatoire,1.0,0.1,1.0,1.0,0.3333333333333333
+0,172,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,172,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,172,lieux froids seuls,Contenu seul,1.0,0.1,1.0,1.0,0.6309297535714575
+0,172,lieux froids seuls,Collaboratif seul,1.0,0.1,1.0,1.0,0.38685280723454163
+0,172,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,172,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,173,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,173,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,173,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,173,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,173,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,173,catalogue complet,Hybride sans similarité,0.2,0.0,0.0,0.0,0.0
+0,173,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,173,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,173,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,173,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,173,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,173,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,173,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,173,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.43067655807339306
+0,174,catalogue complet,Aléatoire,0.3,0.0,0.0,0.0,0.0
+0,174,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,174,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,174,catalogue complet,Contenu seul,0.3,0.0,0.0,0.0,0.0
+0,174,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,174,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,174,catalogue complet,Hybride (complet),0.1,0.0,0.0,0.0,0.0
+0,174,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,174,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,174,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,174,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,174,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,174,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,174,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,179,catalogue complet,Aléatoire,0.2,0.0,0.0,0.0,0.0
+0,179,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,179,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,179,catalogue complet,Contenu seul,0.2,0.0,0.0,0.0,0.0
+0,179,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,179,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,179,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,179,lieux froids seuls,Aléatoire,1.0,0.1,0.5,1.0,0.23719771276929622
+0,179,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,179,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,179,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,179,lieux froids seuls,Collaboratif seul,1.0,0.1,0.5,1.0,0.38685280723454163
+0,179,lieux froids seuls,Hybride sans similarité,1.0,0.1,0.5,1.0,0.19342640361727081
+0,179,lieux froids seuls,Hybride (complet),1.0,0.1,0.5,1.0,0.38685280723454163
+0,189,catalogue complet,Aléatoire,0.2,0.0,0.0,0.0,0.0
+0,189,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,189,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,189,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,189,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,189,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,189,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,189,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,189,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,189,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,189,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,189,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,189,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,1.0
+0,189,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.6309297535714575
+0,200,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,200,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,200,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,200,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,200,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,200,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,200,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,200,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,200,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,200,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,200,lieux froids seuls,Contenu seul,1.0,0.1,0.5,1.0,0.18457569677956817
+0,200,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,200,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,200,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,202,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,202,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,202,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,202,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,202,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,202,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,202,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,202,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,202,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,202,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,202,lieux froids seuls,Contenu seul,1.0,0.1,1.0,1.0,0.3562071871080222
+0,202,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,202,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,202,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,203,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,203,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,203,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,203,catalogue complet,Contenu seul,0.2,0.0,0.0,0.0,0.0
+0,203,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,203,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,203,catalogue complet,Hybride (complet),0.1,0.0,0.0,0.0,0.0
+0,203,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,203,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,203,lieux froids seuls,Qualité seule,1.0,0.1,1.0,1.0,0.3010299956639812
+0,203,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,203,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,203,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,203,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,204,catalogue complet,Aléatoire,0.2,0.0,0.0,0.0,0.0
+0,204,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,204,catalogue complet,Qualité seule,0.1,0.1,1.0,1.0,0.38685280723454163
+0,204,catalogue complet,Contenu seul,0.2,0.0,0.0,0.0,0.0
+0,204,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,204,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,204,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,204,lieux froids seuls,Aléatoire,1.0,0.1,1.0,1.0,0.5
+0,204,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,204,lieux froids seuls,Qualité seule,1.0,0.1,1.0,1.0,1.0
+0,204,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,204,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,204,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,204,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,205,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,205,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,205,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,205,catalogue complet,Contenu seul,0.5,0.0,0.0,0.0,0.0
+0,205,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,205,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,205,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,205,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,205,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,205,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,205,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,205,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,205,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,205,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,206,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,206,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,206,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,206,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,206,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,206,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,206,catalogue complet,Hybride (complet),0.1,0.0,0.0,0.0,0.0
+0,206,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,206,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,206,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,206,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,206,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,206,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.43067655807339306
+0,206,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,215,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,215,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,215,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,215,catalogue complet,Contenu seul,0.2,0.0,0.0,0.0,0.0
+0,215,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,215,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,215,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,215,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,215,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,215,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,215,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,215,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,215,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,215,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,217,catalogue complet,Aléatoire,0.2,0.0,0.0,0.0,0.0
+0,217,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,217,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,217,catalogue complet,Contenu seul,0.1,0.1,1.0,1.0,0.3562071871080222
+0,217,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,217,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,217,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,217,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,217,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,217,lieux froids seuls,Qualité seule,1.0,0.1,1.0,1.0,0.3010299956639812
+0,217,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,217,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,217,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.38685280723454163
+0,217,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.43067655807339306
+0,218,catalogue complet,Aléatoire,0.2,0.0,0.0,0.0,0.0
+0,218,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,218,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,218,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,218,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,218,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,218,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,218,lieux froids seuls,Aléatoire,1.0,0.1,0.5,1.0,0.21840743681816419
+0,218,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,218,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,218,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,218,lieux froids seuls,Collaboratif seul,1.0,0.1,0.5,1.0,0.19342640361727081
+0,218,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,218,lieux froids seuls,Hybride (complet),1.0,0.1,0.5,1.0,0.23719771276929622
+0,221,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,221,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,221,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,221,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,221,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,221,catalogue complet,Hybride sans similarité,0.2,0.0,0.0,0.0,0.0
+0,221,catalogue complet,Hybride (complet),0.1,0.0,0.0,0.0,0.0
+0,221,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,221,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,221,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,221,lieux froids seuls,Contenu seul,1.0,0.1,1.0,1.0,0.5
+0,221,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,221,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,221,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,223,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,223,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,223,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,223,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,223,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,223,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,223,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,223,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,223,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,223,lieux froids seuls,Qualité seule,1.0,0.1,1.0,1.0,0.2890648263178879
+0,223,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,223,lieux froids seuls,Collaboratif seul,1.0,0.1,1.0,1.0,0.38685280723454163
+0,223,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,223,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,228,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,228,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,228,catalogue complet,Qualité seule,0.0,0.0,0.0,0.0,0.0
+0,228,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,228,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,228,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,228,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,228,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,228,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,228,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,228,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,228,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,228,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.3010299956639812
+0,228,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.3010299956639812
+0,229,catalogue complet,Aléatoire,0.0,0.0,0.0,0.0,0.0
+0,229,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,229,catalogue complet,Qualité seule,0.0,0.0,0.0,0.0,0.0
+0,229,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,229,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,229,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,229,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,229,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,229,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,229,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,229,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,229,lieux froids seuls,Collaboratif seul,1.0,0.1,1.0,1.0,0.5
+0,229,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,229,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,233,catalogue complet,Aléatoire,0.3,0.0,0.0,0.0,0.0
+0,233,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,233,catalogue complet,Qualité seule,0.1,0.1,1.0,1.0,0.38685280723454163
+0,233,catalogue complet,Contenu seul,0.5,0.0,0.0,0.0,0.0
+0,233,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,233,catalogue complet,Hybride sans similarité,0.2,0.1,1.0,1.0,0.38685280723454163
+0,233,catalogue complet,Hybride (complet),0.1,0.1,1.0,1.0,0.3562071871080222
+0,233,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,233,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,233,lieux froids seuls,Qualité seule,1.0,0.1,1.0,1.0,1.0
+0,233,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,233,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,233,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.5
+0,233,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.6309297535714575
+0,237,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,237,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,237,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,237,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,237,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,237,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,237,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,237,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,237,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,237,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,237,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,237,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,237,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,237,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,240,catalogue complet,Aléatoire,0.0,0.0,0.0,0.0,0.0
+0,240,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,240,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,240,catalogue complet,Contenu seul,0.2,0.0,0.0,0.0,0.0
+0,240,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,240,catalogue complet,Hybride sans similarité,0.2,0.0,0.0,0.0,0.0
+0,240,catalogue complet,Hybride (complet),0.2,0.0,0.0,0.0,0.0
+0,240,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,240,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,240,lieux froids seuls,Qualité seule,1.0,0.1,0.5,1.0,0.23719771276929622
+0,240,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,240,lieux froids seuls,Collaboratif seul,1.0,0.1,0.5,1.0,0.19342640361727081
+0,240,lieux froids seuls,Hybride sans similarité,1.0,0.1,0.5,1.0,0.20438239758848611
+0,240,lieux froids seuls,Hybride (complet),1.0,0.1,0.5,1.0,0.17723928678404774
+0,243,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,243,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,243,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,243,catalogue complet,Contenu seul,0.3,0.1,1.0,1.0,0.3333333333333333
+0,243,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,243,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,243,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,243,lieux froids seuls,Aléatoire,1.0,0.1,1.0,1.0,0.3333333333333333
+0,243,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,243,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,243,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,243,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,243,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.31546487678572877
+0,243,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.38685280723454163
+0,247,catalogue complet,Aléatoire,0.2,0.0,0.0,0.0,0.0
+0,247,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,247,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,247,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,247,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,247,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,247,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,247,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,247,lieux froids seuls,Popularité,1.0,0.1,1.0,1.0,0.5
+0,247,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,247,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,247,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,247,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,247,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,249,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,249,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,249,catalogue complet,Qualité seule,0.1,0.1,1.0,1.0,0.3562071871080222
+0,249,catalogue complet,Contenu seul,0.4,0.0,0.0,0.0,0.0
+0,249,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,249,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,249,catalogue complet,Hybride (complet),0.1,0.0,0.0,0.0,0.0
+0,249,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,249,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,249,lieux froids seuls,Qualité seule,1.0,0.1,1.0,1.0,1.0
+0,249,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,249,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,249,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,249,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,251,catalogue complet,Aléatoire,0.0,0.0,0.0,0.0,0.0
+0,251,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,251,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,251,catalogue complet,Contenu seul,0.5,0.0,0.0,0.0,0.0
+0,251,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,251,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,251,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,251,lieux froids seuls,Aléatoire,1.0,0.1,1.0,1.0,0.43067655807339306
+0,251,lieux froids seuls,Popularité,1.0,0.1,1.0,1.0,0.43067655807339306
+0,251,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,251,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,251,lieux froids seuls,Collaboratif seul,1.0,0.1,1.0,1.0,0.43067655807339306
+0,251,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,251,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.2890648263178879
+0,252,catalogue complet,Aléatoire,0.2,0.0,0.0,0.0,0.0
+0,252,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,252,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,252,catalogue complet,Contenu seul,0.3,0.0,0.0,0.0,0.0
+0,252,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,252,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,252,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,252,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,252,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,252,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,252,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,252,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,252,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,252,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,262,catalogue complet,Aléatoire,0.0,0.0,0.0,0.0,0.0
+0,262,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,262,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,262,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,262,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,262,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,262,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,262,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,262,lieux froids seuls,Popularité,1.0,0.1,1.0,1.0,1.0
+0,262,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,262,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,262,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,262,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,262,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.31546487678572877
+0,265,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,265,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,265,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,265,catalogue complet,Contenu seul,0.0,0.0,0.0,0.0,0.0
+0,265,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,265,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,265,catalogue complet,Hybride (complet),0.1,0.0,0.0,0.0,0.0
+0,265,lieux froids seuls,Aléatoire,1.0,0.1,0.5,1.0,0.6131471927654584
+0,265,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,265,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,265,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,265,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,265,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,265,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,268,catalogue complet,Aléatoire,0.3,0.0,0.0,0.0,0.0
+0,268,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,268,catalogue complet,Qualité seule,0.0,0.0,0.0,0.0,0.0
+0,268,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,268,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,268,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,268,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,268,lieux froids seuls,Aléatoire,1.0,0.1,1.0,1.0,0.31546487678572877
+0,268,lieux froids seuls,Popularité,1.0,0.1,1.0,1.0,0.5
+0,268,lieux froids seuls,Qualité seule,1.0,0.1,1.0,1.0,0.5
+0,268,lieux froids seuls,Contenu seul,1.0,0.1,1.0,1.0,0.6309297535714575
+0,268,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,268,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.5
+0,268,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,1.0
+0,273,catalogue complet,Aléatoire,0.3,0.0,0.0,0.0,0.0
+0,273,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,273,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,273,catalogue complet,Contenu seul,0.2,0.0,0.0,0.0,0.0
+0,273,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,273,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,273,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,273,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,273,lieux froids seuls,Popularité,1.0,0.1,1.0,1.0,1.0
+0,273,lieux froids seuls,Qualité seule,1.0,0.1,1.0,1.0,0.3010299956639812
+0,273,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,273,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,273,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,273,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,280,catalogue complet,Aléatoire,0.0,0.0,0.0,0.0,0.0
+0,280,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,280,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,280,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,280,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,280,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,280,catalogue complet,Hybride (complet),0.1,0.0,0.0,0.0,0.0
+0,280,lieux froids seuls,Aléatoire,1.0,0.1,0.3333333333333333,1.0,0.2960819109658652
+0,280,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,280,lieux froids seuls,Qualité seule,1.0,0.1,0.3333333333333333,1.0,0.14126697285982898
+0,280,lieux froids seuls,Contenu seul,1.0,0.1,0.3333333333333333,1.0,0.2960819109658652
+0,280,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,280,lieux froids seuls,Hybride sans similarité,1.0,0.1,0.3333333333333333,1.0,0.2960819109658652
+0,280,lieux froids seuls,Hybride (complet),1.0,0.1,0.3333333333333333,1.0,0.23463936301137822
+0,283,catalogue complet,Aléatoire,0.0,0.0,0.0,0.0,0.0
+0,283,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,283,catalogue complet,Qualité seule,0.1,0.1,0.5,1.0,0.21840743681816419
+0,283,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,283,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,283,catalogue complet,Hybride sans similarité,0.1,0.1,0.5,1.0,0.38685280723454163
+0,283,catalogue complet,Hybride (complet),0.1,0.1,0.5,1.0,0.23719771276929622
+0,283,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,283,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,283,lieux froids seuls,Qualité seule,1.0,0.1,0.5,1.0,0.6131471927654584
+0,283,lieux froids seuls,Contenu seul,1.0,0.2,1.0,1.0,0.48381288316677695
+0,283,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,283,lieux froids seuls,Hybride sans similarité,1.0,0.1,0.5,1.0,0.6131471927654584
+0,283,lieux froids seuls,Hybride (complet),1.0,0.1,0.5,1.0,0.2640681225725909
+0,292,catalogue complet,Aléatoire,0.1,0.0,0.0,0.0,0.0
+0,292,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,292,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,292,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,292,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,292,catalogue complet,Hybride sans similarité,0.1,0.0,0.0,0.0,0.0
+0,292,catalogue complet,Hybride (complet),0.1,0.0,0.0,0.0,0.0
+0,292,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,292,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,292,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,292,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,292,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,292,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.2890648263178879
+0,292,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.3333333333333333
+0,294,catalogue complet,Aléatoire,0.2,0.0,0.0,0.0,0.0
+0,294,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,294,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,294,catalogue complet,Contenu seul,0.2,0.0,0.0,0.0,0.0
+0,294,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,294,catalogue complet,Hybride sans similarité,0.2,0.0,0.0,0.0,0.0
+0,294,catalogue complet,Hybride (complet),0.2,0.0,0.0,0.0,0.0
+0,294,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,294,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,294,lieux froids seuls,Qualité seule,1.0,0.1,1.0,1.0,0.3010299956639812
+0,294,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,294,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,294,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.31546487678572877
+0,294,lieux froids seuls,Hybride (complet),1.0,0.1,1.0,1.0,0.43067655807339306
+0,295,catalogue complet,Aléatoire,0.0,0.0,0.0,0.0,0.0
+0,295,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,295,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,295,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,295,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,295,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,295,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,295,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,295,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,295,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,295,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,295,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,295,lieux froids seuls,Hybride sans similarité,1.0,0.1,1.0,1.0,0.3333333333333333
+0,295,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
+0,300,catalogue complet,Aléatoire,0.2,0.0,0.0,0.0,0.0
+0,300,catalogue complet,Popularité,0.0,0.0,0.0,0.0,0.0
+0,300,catalogue complet,Qualité seule,0.1,0.0,0.0,0.0,0.0
+0,300,catalogue complet,Contenu seul,0.1,0.0,0.0,0.0,0.0
+0,300,catalogue complet,Collaboratif seul,0.0,0.0,0.0,0.0,0.0
+0,300,catalogue complet,Hybride sans similarité,0.0,0.0,0.0,0.0,0.0
+0,300,catalogue complet,Hybride (complet),0.0,0.0,0.0,0.0,0.0
+0,300,lieux froids seuls,Aléatoire,1.0,0.0,0.0,0.0,0.0
+0,300,lieux froids seuls,Popularité,1.0,0.0,0.0,0.0,0.0
+0,300,lieux froids seuls,Qualité seule,1.0,0.0,0.0,0.0,0.0
+0,300,lieux froids seuls,Contenu seul,1.0,0.0,0.0,0.0,0.0
+0,300,lieux froids seuls,Collaboratif seul,1.0,0.0,0.0,0.0,0.0
+0,300,lieux froids seuls,Hybride sans similarité,1.0,0.0,0.0,0.0,0.0
+0,300,lieux froids seuls,Hybride (complet),1.0,0.0,0.0,0.0,0.0
