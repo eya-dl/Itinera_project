@@ -1,5 +1,5 @@
 import { DecimalPipe } from '@angular/common';
-import { Component, input } from '@angular/core';
+import { Component, input, output } from '@angular/core';
 import { Place } from './models';
 
 @Component({
@@ -25,7 +25,10 @@ import { Place } from './models';
         @for (r of place().reasons; track r) {
           <li>{{ r }}</li>
         }
-      </ul>
+        </ul>
+      <button type="button" class="like" [class.on]="liked()" [attr.aria-pressed]="liked()" (click)="toggleLike.emit(place())">
+        {{ liked() ? '✓ Plus comme ça' : '+ Plus comme ça' }}
+      </button>
     </article>
   `,
   styles: `
@@ -37,9 +40,13 @@ import { Place } from './models';
     .bar { height: 6px; background: var(--line); border-radius: 3px; overflow: hidden; }
     .bar span { display: block; height: 100%; background: var(--accent); }
     .score { font-size: .8rem; color: var(--muted); margin: .25rem 0 .5rem; }
-    ul { margin: 0; padding-left: 1.1rem; font-size: .9rem; }
+    ul { margin: 0 0 .8rem; padding-left: 1.1rem; font-size: .9rem; }
+    .like { border: 1.5px solid var(--accent); background: #fff; color: var(--accent); border-radius: 999px; padding: .35rem .9rem; font: inherit; font-size: .85rem; font-weight: 600; cursor: pointer; }
+    .like.on { background: var(--accent); color: #fff; }
   `,
 })
 export class PlaceCard {
   readonly place = input.required<Place>();
+  readonly liked = input(false);
+  readonly toggleLike = output<Place>();
 }

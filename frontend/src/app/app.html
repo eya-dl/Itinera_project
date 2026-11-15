@@ -115,6 +115,16 @@
       @if (loading()) {
         <p class="muted">Calcul en cours…</p>
       }
+            @if (likedPlaces().length) {
+        <div class="liked-bar">
+          <span>Lieux aimés (on cherche des lieux similaires) :</span>
+          @for (p of likedPlaces(); track p.place_id) {
+            <button type="button" class="chip-x" (click)="toggleLike(p)" [attr.aria-label]="'Retirer ' + p.name">{{ p.name }} ✕</button>
+          }
+          <button type="button" class="refine" [disabled]="loading() || !mode()" (click)="refine()">Affiner avec mes lieux aimés</button>
+          <button type="button" class="chip-x" (click)="clearLikes()">Tout effacer</button>
+        </div>
+      }
 
       @if (!loading() && mode() === 'recommend') {
         <h2 class="results-title">Lieux recommandés</h2>
@@ -123,7 +133,7 @@
         }
         <div class="grid">
           @for (p of places(); track p.place_id) {
-            <app-place-card [place]="p" />
+            <app-place-card [place]="p" [liked]="isLiked(p.place_id)" (toggleLike)="toggleLike($event)" />
           }
         </div>
       }

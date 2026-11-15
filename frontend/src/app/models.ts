@@ -17,6 +17,7 @@ export interface ProfilePayload {
   days: number;
   travelers: number;
   free_only: boolean;
+  liked_place_ids?: number[];
 }
 
 export interface RecommendRequest extends ProfilePayload {
